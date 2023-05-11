@@ -17,16 +17,15 @@ Away Team Software and Highways England provided a variety of road litter includ
 
 ### Self-Mobile Entities
 
-Text goes here.
+OS Street Drone (1), flying drone (1), instrumented people (2) and non-participant bicyclists, walkers, runners, cars, and trucks. The drones and instrumented people have audio and 10-30 Hz video streams with per-frame IMU and other metadata.
 
 ### Sensed Data
 
 Hierarchical breakdown by sensor platform and sensor.
 Data from each sensor is available in time series form.
 
-
 ## Derived Data
 
 Derived data is computed from the sensed data and certain ancillary environmental data, such a the angular position of the sun. The primary tpe of derived data is position and orientation of mobile entities. This information is derived from a combination of sensed data and application of physical and geometrical constraints. 
 
-This section is not done!!
+
