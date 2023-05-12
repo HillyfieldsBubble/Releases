@@ -1,6 +1,6 @@
 # Releases
 
-This is the public access point for content derived from the April 2023 Hillyfields Bubble Dsta Capture. 
+This is the public access point for content derived from the April 2023 Hillyfields Bubble Data Capture. 
 
 ## Descriptions
 The initial data capture was on 25-26 April, 2023 at and near the headquarters of the Ordnance Survey UK. Participants from the Ordnance Survey UK, Away Team Software, and OpenSitePlan made position, orientation, and image sensor observations via an instrumented road vehicle (the "street drone" or the "car"), a person wearing a chest-mounted GoPro camera (the "rider"), a flying drone (the "drone"), and two fixed video cameras (the "static cameras", also positioned and oriented.
@@ -26,6 +26,6 @@ Data from each sensor is available in time series form.
 
 ## Derived Data
 
-Derived data is computed from the sensed data and certain ancillary environmental data, such a the angular position of the sun. The primary tpe of derived data is position and orientation of mobile entities. This information is derived from a combination of sensed data and application of physical and geometrical constraints. 
+Derived data is computed from the sensed data and certain ancillary environmental data, such as the angular position of the sun. The primary tpe of derived data is position and orientation of mobile entities. This information is derived from a combination of sensed data and application of physical and geometrical constraints. 
 
 
