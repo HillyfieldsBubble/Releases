@@ -24,8 +24,8 @@ OS Street Drone (1), flying drone (1), instrumented people (2) and non-participa
 Hierarchical breakdown by sensor platform and sensor.
 Data from each sensor is available in time series form.
 
-## Derived Data
+### Derived Data
 
-Derived data is computed from the sensed data and certain ancillary environmental data, such as the angular position of the sun. The primary tpe of derived data is position and orientation of mobile entities. This information is derived from a combination of sensed data and application of physical and geometrical constraints. 
+Derived data is computed from the sensed data and certain ancillary environmental data, such as the angular position of the sun. The primary type of derived data is position and orientation of mobile entities. This information is derived from a combination of sensed data and application of physical and geometrical constraints. Identifying derived data makes it possible for downstrean users of the captured data to use their own algorithms, if they choose.
 
 
