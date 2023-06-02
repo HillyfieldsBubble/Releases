@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <GroundOverlay>
+      <Icon>
+        <href>Afternoon_Orthomosaic.tif</href>
+      </Icon>
+      <LatLonBox>
+        <north>50.939751049310303</north>
+        <south>50.935761364830306</south>
+        <east>-1.4689667654816971</east>
+        <west>-1.473608417601697</west>
+      </LatLonBox>
+      <name>Afternoon_Orthomosaic.tif</name>
+      <drawOrder>1</drawOrder>
+    </GroundOverlay>
+  </Document>
+</kml>
