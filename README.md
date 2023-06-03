@@ -1,13 +1,13 @@
-![Bubble Base](BubbleBase.PNG)
+<div>
+<img src="https://github.com/HillyfieldsBubble/Releases/blob/main/BubbleBase.PNG" width="400" height="400" />
+<img src="https://github.com/HillyfieldsBubble/Releases/blob/main/BubbleMesh.PNG" width="400" height="400" />
+</div>
 
 # Releases
 
-This is the public access point for content derived from the April 2023 Hillyfields Bubble Data Capture. 
-
-
 
 ## Descriptions
-The initial data capture was on 25-26 April, 2023 at and near the headquarters of the Ordnance Survey UK. Participants from the Ordnance Survey UK, Away Team Software, and OpenSitePlan made position, orientation, and image sensor observations via an instrumented road vehicle (the "street drone" or the "car"), a person wearing a chest-mounted GoPro camera (the "rider"), a flying drone (the "drone"), and two fixed video cameras (the "static cameras", also positioned and oriented.
+Data was captured on 25-26 April, 2023 at and near the headquarters of the Ordnance Survey UK. Participants from the Ordnance Survey UK, Away Team Software, and OpenSitePlan made position, orientation, and image sensor observations via an instrumented road vehicle (the "street drone" or the "car"), a person wearing a chest-mounted GoPro camera (the "rider"), a flying drone (the "drone"), and two fixed video cameras (the "static cameras", also positioned and oriented.
 
 ## Structure of the Data
 
