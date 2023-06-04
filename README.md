@@ -1,6 +1,6 @@
 <div>
-<img src="https://github.com/HillyfieldsBubble/Releases/blob/main/BubbleBase.PNG" width="430" height="400" />
-<img src="https://github.com/HillyfieldsBubble/Releases/blob/main/BubbleMesh.PNG" width="430" height="400" />
+<img src="https://github.com/HillyfieldsBubble/Releases/blob/main/BubbleBase.PNG" width="400" height="375" />
+<img src="https://github.com/HillyfieldsBubble/Releases/blob/main/BubbleMesh.PNG" width="400" height="375" />
 </div>
 
 # Releases
