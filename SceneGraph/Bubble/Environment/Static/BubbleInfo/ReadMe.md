@@ -8,8 +8,14 @@ Hillyfields Data Capture April 2023
 
 ## Bubble Centre
 
-Latitude: 50.93813908N, Longitude: 1.47065848W, Height Above WGS-84 Ellipsoid: 61.0 m
+Latitude 50.938117, longitude -1.470633,  height above WGS84 ellipsoid: 60.12 m.
 
-## Bubble Offset
+[Map](BubbleCentre.geojson)
+
+## Bubble Mesh Offset
+
+Bubble mesh offset 55.43 m.
 
 ## Bubble Radius
+
+Bubble ground intersection radius 256m. Bubble mesh radius 268.8m.
