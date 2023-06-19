@@ -6,7 +6,7 @@ Orthomosaic computed from imagery obtained morning of 25th April 2023 in the are
 
 Files listed in the following table are too large to be repo-friendly. They are stored in a public Amazon S3 bucket. Separating large files helps the repository itself remain relatively small and convenient to clone.
 
-Link(s) to the file(s) are indicated in the "Links" column.
+Link(s) to the file(s) are indicated in the "Link" column.
 
 | Name      |Description |Size | Link |
 | :----------- | :--- | :--- | :----------- |
