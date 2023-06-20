@@ -10,7 +10,7 @@ Link(s) to the file(s) are indicated in the "Link" column.
 
 | Name      |Description |Size | Link |
 | :----------- | :--- | :--- | :----------- |
-| Morning orthomosaic      | 1.5 cm pixel geotiff image 20345 x 27248     | 1.82 GB|[S3 link](https://s3.console.aws.amazon.com/s3/object/hillyfields?region=us-east-1&prefix=releases/scenegraph/bubble/environment/static/orthomosaics/Morning_Orthomosaic.tif)
+| Morning orthomosaic      | 1.5 cm pixel geotiff image 20345 x 27248     | 1.82 GB|[S3 link](https://hillyfields.s3.amazonaws.com/releases/scenegraph/bubble/environment/static/orthomosaics/Morning_Orthomosaic.tif)
 
 
 
