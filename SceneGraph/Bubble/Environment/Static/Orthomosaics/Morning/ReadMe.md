@@ -2,6 +2,8 @@
 
 Orthomosaic computed from imagery obtained morning of 25th April 2023 in the area of the Hillyfields Bubble, centred where the OGC Testbed-19 and Metaverse Standards Forum prototypes will be built. 
 
+[Remotely Stored Assets](./assets.md)
+
 ### Large Files Stored in S3
 
 Files listed in the following table are too large to be repo-friendly. They are stored in a public Amazon S3 bucket. Separating large files helps the repository itself remain relatively small and convenient to clone.
