@@ -1,5 +1,7 @@
 # Survey Images Used to Build Morning and Afternoon Point Clouds
 
+The date-time embedded in each file name gives the capture time of the image.
+
 - http://hillyfieldsbubble.org/data/quadcopter/raw/images/MGISM2P01.L1D20c.2023-04-25T113338.000.JPG)
 - http://hillyfieldsbubble.org/data/quadcopter/raw/images/MGISM2P01.L1D20c.2023-04-25T113316.000.JPG
 - http://hillyfieldsbubble.org/data/quadcopter/raw/images/MGISM2P01.L1D20c.2023-04-25T113318.000.JPG
