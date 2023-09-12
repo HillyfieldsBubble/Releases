@@ -1,3 +1,7 @@
+# All Videos Collected from the Air
+
+The date-time embedded in each file name gives the nominal start time of the video stream.
+
 - http://hillyfieldsbubble.org/data/quadcopter/raw/videos/MGISM2P01.L1D20c.2023-04-25T111150.000.MP4
 - http://hillyfieldsbubble.org/data/quadcopter/raw/videos/MGISM2P01.L1D20c.2023-04-25T123846.000.MP4
 - http://hillyfieldsbubble.org/data/quadcopter/raw/videos/MGISM2P01.L1D20c.2023-04-25T125320.000.MP4
