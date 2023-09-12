@@ -1,5 +1,6 @@
-[title](https://www.example.com)
-- http://hillyfieldsbubble.org/data/quadcopter/raw/images/- http://hillyfieldsbubble.org/data/quadcopter/raw/images/MGISM2P01.L1D20c.2023-04-25T113338.000.JPG)
+# Survey Images Used to Build Morning and Afternoon Point Clouds
+
+- http://hillyfieldsbubble.org/data/quadcopter/raw/images/MGISM2P01.L1D20c.2023-04-25T113338.000.JPG)
 - http://hillyfieldsbubble.org/data/quadcopter/raw/images/MGISM2P01.L1D20c.2023-04-25T113316.000.JPG
 - http://hillyfieldsbubble.org/data/quadcopter/raw/images/MGISM2P01.L1D20c.2023-04-25T113318.000.JPG
 - http://hillyfieldsbubble.org/data/quadcopter/raw/images/MGISM2P01.L1D20c.2023-04-25T113322.000.JPG
