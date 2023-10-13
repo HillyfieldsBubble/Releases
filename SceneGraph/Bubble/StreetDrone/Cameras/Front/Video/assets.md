@@ -1,7 +1,7 @@
 # StreetDrone Video Capture - Front
 
 Below are the videos captured with the forward-facing StreetDrone camera.  Vehicles and pedestrians have been obfuscated to protect their identities. 
-See the [Readme](ReadMe.md) for more details on the capture.
+See the [Readme](ReadMe.md) for more details on the capture and [Camera Readme](../../ReadMe.md) for details of the sensor.
 
 
 |Run | Link |
