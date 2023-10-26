@@ -1,0 +1,57 @@
+WEBVMT
+
+NOTE Created by TrkdCam
+     Away Team Software
+     www.awayteam.co.uk
+
+MEDIA
+url:XT2129-2.REARCAM_VIDEO.2023-04-25T141535.000.mp4
+mime-type:video/mp4
+path:cam_g30
+start-time:2023-04-25T15:15:35.000+01:00
+
+MAP
+lat:50.938003
+lng:-1.472400
+rad:100
+
+STYLE
+::cue([path|="dir"]) {
+  stroke-opacity: 0.3;
+}
+::cue([path~="centre"]) {
+  stroke-opacity: 0.3;
+}
+
+NOTE Lines of sight & target locations
+{"circle":{"lat":50.938003,"lng":-1.472400,"rad":0.1,"zone":"photo"}}
+{"circle":{"lat":50.938289,"lng":-1.472466,"rad":1,"zone":"near-right"}}
+{"circle":{"lat":50.938135,"lng":-1.472466,"rad":1,"zone":"near-centre"}}
+{"circle":{"lat":50.938099,"lng":-1.472466,"rad":1,"zone":"near-mid-left"}}
+{"circle":{"lat":50.938061,"lng":-1.472464,"rad":1,"zone":"near-left"}}
+{"circle":{"lat":50.938124,"lng":-1.472535,"rad":1,"zone":"far-left"}}
+{"circle":{"lat":50.938200,"lng":-1.472535,"rad":1,"zone":"far-mid-left"}}
+{"circle":{"lat":50.938263,"lng":-1.472531,"rad":1,"zone":"far-centre"}}
+{"circle":{"lat":50.938441,"lng":-1.472502,"rad":1,"zone":"far-right"}}
+{"move-to":{"lat":50.938003,"lng":-1.472400,"path":"dir-centre","hdg":342}}
+{"line-to":{"lat":50.938333,"lng":-1.472566,"path":"dir-centre","end":"00:00:00.000"}}
+{"move-to":{"lat":50.938003,"lng":-1.472400,"path":"dir-right"}}
+{"line-to":{"lat":50.938531,"lng":-1.472523,"path":"dir-right","end":"00:00:00.000"}}
+{"move-to":{"lat":50.938003,"lng":-1.472400,"path":"dir-left"}}
+{"line-to":{"lat":50.938168,"lng":-1.472584,"path":"dir-left","end":"00:00:00.000"}}
+{"move-to":{"lat":50.938003,"lng":-1.472400,"path":"dir-mid-left"}}
+{"line-to":{"lat":50.938259,"lng":-1.472576,"path":"dir-mid-left","end":"00:00:00.000"}}
+
+NOTE Camera
+
+00:00:00.000 -->
+{"circle":{"lat":50.938003,"lng":-1.472400,"rad":0.2,"zone":"camera"}}
+{"move-to":{"lat":50.938003,"lng":-1.472400,"path":"cam_g30","hdg":342}}
+{"move-to":{"lat":50.938003,"lng":-1.472400,"path":"dir-centre","hdg":342}}
+{"line-to":{"lat":50.938333,"lng":-1.472566,"path":"dir-centre","end":"00:00:00.000"}}
+{"sync":{"type":"org.ogc.geopose.basic.euler",
+  "data":{"id":"dir-centre","position":{"lat":50.938003,"lon":-1.472400,"h":0},"angles":{"yaw":108,"pitch":0,"roll":-90}}}}
+
+NOTE No StreetDrone passes
+
+NOTE Video stopped
