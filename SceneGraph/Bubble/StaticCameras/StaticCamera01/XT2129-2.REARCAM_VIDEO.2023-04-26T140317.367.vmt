@@ -9,7 +9,7 @@ NOTE Synchronised with StreetDrone data: s=0.044, n=4
 MEDIA
 url:XT2129-2.REARCAM_VIDEO.2023-04-26T140317.367.mp4
 mime-type:video/mp4
-path:cam_g30
+path:cam-g30
 start-time:2023-04-26T15:03:17.367+01:00
 
 MAP
@@ -29,7 +29,7 @@ NOTE Lines of sight & target locations
 {"circle":{"lat":50.937930,"lng":-1.472550,"rad":0.1,"zone":"photo-b"}}
 {"circle":{"lat":50.938172,"lng":-1.472467,"rad":1,"zone":"far-mid-left-b"}}
 {"circle":{"lat":50.938078,"lng":-1.472466,"rad":1,"zone":"far-centre-b"}}
-{"circle":{"lat":50.938005,"lng":-1.472462,"rad":1,"zone":"far_right-b"}}
+{"circle":{"lat":50.938005,"lng":-1.472462,"rad":1,"zone":"far-right-b"}}
 {"circle":{"lat":50.937960,"lng":-1.472515,"rad":1,"zone":"near-right-b"}}
 {"circle":{"lat":50.937983,"lng":-1.472519,"rad":1,"zone":"near-centre-b"}}
 {"circle":{"lat":50.938009,"lng":-1.472523,"rad":1,"zone":"near-mid-left-b"}}
@@ -47,52 +47,52 @@ NOTE Camera
 
 00:00:00.000 -->
 {"circle":{"lat":50.937930,"lng":-1.472550,"rad":0.2,"zone":"camera"}}
-{"move-to":{"lat":50.937930,"lng":-1.472550,"path":"cam_g30","hdg":24}}
+{"move-to":{"lat":50.937930,"lng":-1.472550,"path":"cam-g30","hdg":24}}
 {"move-to":{"lat":50.937930,"lng":-1.472550,"path":"dir-corrected-b","hdg":24}}
 {"line-to":{"lat":50.938175,"lng":-1.472381,"path":"dir-corrected-b","end":"00:00:00.000"}}
-{"sync":{"type":"org.ogc.geopose.basic.euler",
-  "data":{"id":"dir-corrected-b","position":{"lat":50.937930,"lon":-1.472550,"h":0},"angles":{"yaw":66,"pitch":0,"roll":-90}}}}
+{"sync":{"type":"org.ogc.geopose.basic.euler.dir-corrected-b",
+  "data":{"position":{"lat":50.937930,"lon":-1.472550,"h":0},"angles":{"yaw":66,"pitch":0,"roll":-90}}}}
 
 NOTE StreetDrone 1st pass
 
 00:01:17.559 --> 00:01:29.993
-{"move-to":{"lat":50.938172,"lng":-1.472467,"path":"veh_sd"}}
-{"line-to":{"lat":50.938078,"lng":-1.472466,"path":"veh_sd","end":"00:01:18.993"}}
+{"move-to":{"lat":50.938172,"lng":-1.472467,"path":"veh-sd"}}
+{"line-to":{"lat":50.938078,"lng":-1.472466,"path":"veh-sd","end":"00:01:18.993"}}
 
 00:01:18.993 --> 00:01:29.993
-{"line-to":{"lat":50.938005,"lng":-1.472462,"path":"veh_sd","end":"00:01:19.993"}}
+{"line-to":{"lat":50.938005,"lng":-1.472462,"path":"veh-sd","end":"00:01:19.993"}}
 
 NOTE StreetDrone 2nd pass
 
 00:02:34.759 --> 00:02:45.626
-{"move-to":{"lat":50.937960,"lng":-1.472515,"path":"veh_sd"}}
-{"line-to":{"lat":50.937983,"lng":-1.472519,"path":"veh_sd","end":"00:02:35.026"}}
+{"move-to":{"lat":50.937960,"lng":-1.472515,"path":"veh-sd"}}
+{"line-to":{"lat":50.937983,"lng":-1.472519,"path":"veh-sd","end":"00:02:35.026"}}
 
 00:02:35.026 --> 00:02:45.626
-{"line-to":{"lat":50.938009,"lng":-1.472523,"path":"veh_sd","end":"00:02:35.239"}}
+{"line-to":{"lat":50.938009,"lng":-1.472523,"path":"veh-sd","end":"00:02:35.239"}}
 
 00:02:35.239 --> 00:02:45.626
-{"line-to":{"lat":50.938036,"lng":-1.472527,"path":"veh_sd","end":"00:02:35.626"}}
+{"line-to":{"lat":50.938036,"lng":-1.472527,"path":"veh-sd","end":"00:02:35.626"}}
 
 NOTE StreetDrone 3rd pass
 
 00:03:07.193 --> 00:03:19.626
-{"move-to":{"lat":50.938172,"lng":-1.472467,"path":"veh_sd"}}
-{"line-to":{"lat":50.938078,"lng":-1.472466,"path":"veh_sd","end":"00:03:08.693"}}
+{"move-to":{"lat":50.938172,"lng":-1.472467,"path":"veh-sd"}}
+{"line-to":{"lat":50.938078,"lng":-1.472466,"path":"veh-sd","end":"00:03:08.693"}}
 
 00:03:08.693 --> 00:03:19.626
-{"line-to":{"lat":50.938005,"lng":-1.472462,"path":"veh_sd","end":"00:03:09.626"}}
+{"line-to":{"lat":50.938005,"lng":-1.472462,"path":"veh-sd","end":"00:03:09.626"}}
 
 NOTE StreetDrone 4th pass
 
 00:04:15.093 --> 00:04:25.893
-{"move-to":{"lat":50.937960,"lng":-1.472515,"path":"veh_sd"}}
-{"line-to":{"lat":50.937983,"lng":-1.472519,"path":"veh_sd","end":"00:04:15.359"}}
+{"move-to":{"lat":50.937960,"lng":-1.472515,"path":"veh-sd"}}
+{"line-to":{"lat":50.937983,"lng":-1.472519,"path":"veh-sd","end":"00:04:15.359"}}
 
 00:04:15.359 --> 00:04:25.893
-{"line-to":{"lat":50.938009,"lng":-1.472523,"path":"veh_sd","end":"00:04:15.593"}}
+{"line-to":{"lat":50.938009,"lng":-1.472523,"path":"veh-sd","end":"00:04:15.593"}}
 
 00:04:15.593 --> 00:04:25.893
-{"line-to":{"lat":50.938036,"lng":-1.472527,"path":"veh_sd","end":"00:04:15.893"}}
+{"line-to":{"lat":50.938036,"lng":-1.472527,"path":"veh-sd","end":"00:04:15.893"}}
 
 NOTE Video stopped

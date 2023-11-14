@@ -9,7 +9,7 @@ NOTE Synchronised with StreetDrone data: n=1
 MEDIA
 url:XT2129-2.REARCAM_VIDEO.2023-04-25T135233.755.mp4
 mime-type:video/mp4
-path:cam_g30
+path:cam-g30
 start-time:2023-04-25T14:52:33.755+01:00
 
 MAP
@@ -48,22 +48,22 @@ NOTE Camera
 
 00:00:00.000 -->
 {"circle":{"lat":50.938003,"lng":-1.472400,"rad":0.2,"zone":"camera"}}
-{"move-to":{"lat":50.938003,"lng":-1.472400,"path":"cam_g30","hdg":342}}
+{"move-to":{"lat":50.938003,"lng":-1.472400,"path":"cam-g30","hdg":342}}
 {"move-to":{"lat":50.938003,"lng":-1.472400,"path":"dir-centre","hdg":342}}
 {"line-to":{"lat":50.938333,"lng":-1.472566,"path":"dir-centre","end":"00:00:00.000"}}
-{"sync":{"type":"org.ogc.geopose.basic.euler",
-  "data":{"id":"dir-centre","position":{"lat":50.938003,"lon":-1.472400,"h":0},"angles":{"yaw":108,"pitch":0,"roll":-90}}}}
+{"sync":{"type":"org.ogc.geopose.basic.euler.dir-centre",
+  "data":{"position":{"lat":50.938003,"lon":-1.472400,"h":0},"angles":{"yaw":108,"pitch":0,"roll":-90}}}}
 
 NOTE StreetDrone 1st pass
 
 00:00:02.566 --> 00:00:15.831
-{"move-to":{"lat":50.938289,"lng":-1.472466,"path":"veh_sd"}}
-{"line-to":{"lat":50.938135,"lng":-1.472466,"path":"veh_sd","end":"00:00:04.465"}}
+{"move-to":{"lat":50.938289,"lng":-1.472466,"path":"veh-sd"}}
+{"line-to":{"lat":50.938135,"lng":-1.472466,"path":"veh-sd","end":"00:00:04.465"}}
 
 00:00:04.465 --> 00:00:15.831
-{"line-to":{"lat":50.938099,"lng":-1.472466,"path":"veh_sd","end":"00:00:05.132"}}
+{"line-to":{"lat":50.938099,"lng":-1.472466,"path":"veh-sd","end":"00:00:05.132"}}
 
 00:00:05.132 --> 00:00:15.831
-{"line-to":{"lat":50.938061,"lng":-1.472464,"path":"veh_sd","end":"00:00:05.831"}}
+{"line-to":{"lat":50.938061,"lng":-1.472464,"path":"veh-sd","end":"00:00:05.831"}}
 
 NOTE Video stopped

@@ -7,7 +7,7 @@ NOTE Created by TrkdCam
 MEDIA
 url:TA-1024.REARCAM_VIDEO.2023-04-25T141801.000.mp4
 mime-type:video/mp4
-path:cam_n5
+path:cam-n5
 start-time:2023-04-25T15:18:02.694+01:00
 
 MAP
@@ -39,18 +39,18 @@ NOTE Lines of sight & target locations
 {"line-to":{"lat":50.936717,"lng":-1.470711,"path":"dir-far-left","end":"00:00:00.000"}}
 {"move-to":{"lat":50.936780,"lng":-1.471424,"path":"dir-near-left"}}
 {"line-to":{"lat":50.936749,"lng":-1.470459,"path":"dir-near-left","end":"00:00:00.000"}}
-{"move-to":{"lat":50.936780,"lng":-1.471424,"path":"dir-centre2","hdg":348}}
-{"line-to":{"lat":50.936702,"lng":-1.470833,"path":"dir-centre2","end":"00:00:00.000"}}
+{"move-to":{"lat":50.936780,"lng":-1.471424,"path":"dir-centre-b","hdg":348}}
+{"line-to":{"lat":50.936702,"lng":-1.470833,"path":"dir-centre-b","end":"00:00:00.000"}}
 
 NOTE Camera
 
 00:00:00.000 -->
 {"circle":{"lat":50.936780,"lng":-1.471424,"rad":0.2,"zone":"camera"}}
-{"move-to":{"lat":50.936780,"lng":-1.471424,"path":"cam_n5","hdg":348}}
-{"move-to":{"lat":50.936780,"lng":-1.471424,"path":"dir-centre2","hdg":348}}
-{"line-to":{"lat":50.936702,"lng":-1.470833,"path":"dir-centre2","end":"00:00:00.000"}}
-{"sync":{"type":"org.ogc.geopose.basic.euler",
-  "data":{"id":"dir-centre2","position":{"lat":50.936780,"lon":-1.471424,"h":0},"angles":{"yaw":102,"pitch":0,"roll":-90}}}}
+{"move-to":{"lat":50.936780,"lng":-1.471424,"path":"cam-n5","hdg":348}}
+{"move-to":{"lat":50.936780,"lng":-1.471424,"path":"dir-centre-b","hdg":348}}
+{"line-to":{"lat":50.936702,"lng":-1.470833,"path":"dir-centre-b","end":"00:00:00.000"}}
+{"sync":{"type":"org.ogc.geopose.basic.euler.dir-centre-b",
+  "data":{"position":{"lat":50.936780,"lon":-1.471424,"h":0},"angles":{"yaw":102,"pitch":0,"roll":-90}}}}
 
 NOTE No StreetDrone passes
 

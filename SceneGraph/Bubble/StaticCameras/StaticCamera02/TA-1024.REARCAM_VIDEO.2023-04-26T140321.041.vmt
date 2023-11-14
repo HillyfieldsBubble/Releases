@@ -9,7 +9,7 @@ NOTE Synchronised with StreetDrone data: s=0.065, n=4
 MEDIA
 url:TA-1024.REARCAM_VIDEO.2023-04-26T140321.041.mp4
 mime-type:video/mp4
-path:cam_n5
+path:cam-n5
 start-time:2023-04-26T15:03:21.041+01:00
 
 MAP
@@ -46,46 +46,46 @@ NOTE Camera
 
 00:00:00.000 -->
 {"circle":{"lat":50.936657,"lng":-1.471586,"rad":0.2,"zone":"camera"}}
-{"move-to":{"lat":50.936657,"lng":-1.471586,"path":"cam_n5","hdg":56}}
+{"move-to":{"lat":50.936657,"lng":-1.471586,"path":"cam-n5","hdg":56}}
 {"move-to":{"lat":50.936657,"lng":-1.471586,"path":"dir-corrected-c","hdg":56}}
 {"line-to":{"lat":50.936829,"lng":-1.471176,"path":"dir-corrected-c","end":"00:00:00.000"}}
-{"sync":{"type":"org.ogc.geopose.basic.euler",
-  "data":{"id":"dir-corrected-c","position":{"lat":50.936657,"lon":-1.471586,"h":0},"angles":{"yaw":34,"pitch":0,"roll":-90}}}}
+{"sync":{"type":"org.ogc.geopose.basic.euler.dir-corrected-c",
+  "data":{"position":{"lat":50.936657,"lon":-1.471586,"h":0},"angles":{"yaw":34,"pitch":0,"roll":-90}}}}
 
 NOTE StreetDrone 1st pass
 
 00:01:38.830 --> 00:01:51.997
-{"move-to":{"lat":50.936732,"lng":-1.471498,"path":"veh_sd"}}
-{"line-to":{"lat":50.936745,"lng":-1.471370,"path":"veh_sd","end":"00:01:40.297"}}
+{"move-to":{"lat":50.936732,"lng":-1.471498,"path":"veh-sd"}}
+{"line-to":{"lat":50.936745,"lng":-1.471370,"path":"veh-sd","end":"00:01:40.297"}}
 
 00:01:40.297 --> 00:01:51.997
-{"line-to":{"lat":50.936761,"lng":-1.471203,"path":"veh_sd","end":"00:01:41.997"}}
+{"line-to":{"lat":50.936761,"lng":-1.471203,"path":"veh-sd","end":"00:01:41.997"}}
 
 NOTE StreetDrone 2nd pass
 
 00:02:08.963 --> 00:02:19.963
-{"move-to":{"lat":50.936700,"lng":-1.471427,"path":"veh_sd"}}
-{"line-to":{"lat":50.936695,"lng":-1.471493,"path":"veh_sd","end":"00:02:09.497"}}
+{"move-to":{"lat":50.936700,"lng":-1.471427,"path":"veh-sd"}}
+{"line-to":{"lat":50.936695,"lng":-1.471493,"path":"veh-sd","end":"00:02:09.497"}}
 
 00:02:09.497 --> 00:02:19.963
-{"line-to":{"lat":50.936691,"lng":-1.471546,"path":"veh_sd","end":"00:02:09.963"}}
+{"line-to":{"lat":50.936691,"lng":-1.471546,"path":"veh-sd","end":"00:02:09.963"}}
 
 NOTE StreetDrone 3rd pass
 
 00:03:26.197 --> 00:03:38.397
-{"move-to":{"lat":50.936732,"lng":-1.471498,"path":"veh_sd"}}
-{"line-to":{"lat":50.936745,"lng":-1.471370,"path":"veh_sd","end":"00:03:27.230"}}
+{"move-to":{"lat":50.936732,"lng":-1.471498,"path":"veh-sd"}}
+{"line-to":{"lat":50.936745,"lng":-1.471370,"path":"veh-sd","end":"00:03:27.230"}}
 
 00:03:27.230 --> 00:03:38.397
-{"line-to":{"lat":50.936761,"lng":-1.471203,"path":"veh_sd","end":"00:03:28.397"}}
+{"line-to":{"lat":50.936761,"lng":-1.471203,"path":"veh-sd","end":"00:03:28.397"}}
 
 NOTE StreetDrone 4th pass
 
 00:03:50.230 --> 00:04:01.197
-{"move-to":{"lat":50.936700,"lng":-1.471427,"path":"veh_sd"}}
-{"line-to":{"lat":50.936695,"lng":-1.471493,"path":"veh_sd","end":"00:03:50.763"}}
+{"move-to":{"lat":50.936700,"lng":-1.471427,"path":"veh-sd"}}
+{"line-to":{"lat":50.936695,"lng":-1.471493,"path":"veh-sd","end":"00:03:50.763"}}
 
 00:03:50.763 --> 00:04:01.197
-{"line-to":{"lat":50.936691,"lng":-1.471546,"path":"veh_sd","end":"00:03:51.197"}}
+{"line-to":{"lat":50.936691,"lng":-1.471546,"path":"veh-sd","end":"00:03:51.197"}}
 
 NOTE Video stopped
