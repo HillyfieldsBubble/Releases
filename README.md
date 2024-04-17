@@ -13,11 +13,13 @@ Data was captured on 25-26 April, 2023 at and near the headquarters of the Ordna
 
 ### Static Data
 
-We captured two independent reference RGB point clouds (the "reference point clouds") covering the full environment of the capture. One was derived from a late morning aerial survey on 25th April and the other at mid-afternoon of the same day. The nominal positional precision of these point clouds is 2 cm. The point clouds are registered via ground control points to a local LTP-ENU tangent plane coordinate system with an estimated accuracy of 50 cm. Each point cloud has about 140 milllion samples. 
+We captured two independent reference RGB point clouds (the "reference point clouds") covering the full environment of the capture. One was derived from a late morning aerial survey on 25th April and the other at mid-afternoon of the same day. The nominal positional precision of these point clouds is 2 cm. The point clouds are registered via ground control points to a local LTP-ENU tangent plane coordinate system with an estimated accuracy of 50 cm. Each point cloud has about 140 million samples.
 
 ### Portable Entities
 
-Away Team Software and Highways England provided a variety of road litter including rubbish, road hazards, signs, sign frames, sandbags, and car parts. 
+Away Team Software and Highways England provided a variety of road litter including rubbish, temporary road signs, road sign frames, sandbags, and traffic cones.
+
+![StreetDrone vehicle with road litter](SD_Signs2.jpg)
 
 ### Self-Mobile Entities
 
@@ -30,6 +32,4 @@ Data from each sensor is available in time series form.
 
 ### Derived Data
 
-Derived data is computed from the sensed data and certain ancillary environmental data, such as the angular position of the sun. The primary type of derived data is position and orientation of mobile entities. This information is derived from a combination of sensed data and application of physical and geometrical constraints. Identifying derived data makes it possible for downstrean users of the captured data to use their own algorithms, if they choose.
-
-
+Derived data is computed from the sensed data and certain ancillary environmental data, such as the angular position of the sun. The primary type of derived data is position and orientation of mobile entities. This information is derived from a combination of sensed data and application of physical and geometrical constraints. Identifying derived data makes it possible for downstream users of the captured data to use their own algorithms, if they choose.
