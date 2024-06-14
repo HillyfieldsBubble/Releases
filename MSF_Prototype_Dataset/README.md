@@ -1,7 +1,4 @@
-# Releases
-
-
-## Descriptions
+# Metaverse Standards Forum Support Data
 This is a subset of the data capture, selected to support prototype development in the Metaverse Standards Forum (MSF) Real/Virtual Integration Working Group. 
 The data covers four successful rendezvous between the Ordnance Survey instrumented road vehicle (the "Street Drone" or the "car") and two people ("rider-3" and "rider 4") wearing chest-mounted 
 GoPro 11 cameras.
@@ -11,49 +8,33 @@ The four rendezvous were captured on 26 April, 2023. Participants were from the 
 made video, imagery, position, 
 orientation, and image sensor sensor observations throughout the four rendezvous. 
 
-## Structure of the Data
 
-### Static Data
-
-We captured two independent reference RGB point clouds (the "reference point clouds") covering the full environment of the capture. One was derived from a late morning aerial survey on 25th April and the other at mid-afternoon of the same day. The nominal positional precision of these point clouds is 2 cm. The point clouds are registered via ground control points to a local LTP-ENU tangent plane coordinate system with an estimated accuracy of 50 cm. Each point cloud has about 140 million samples.
-
-### Portable Entities
-
-Away Team Software and Highways England provided a variety of road litter including rubbish, temporary road signs, road sign frames, sandbags, and traffic cones.
-
-![StreetDrone vehicle with road litter](SD_Signs2.jpg)
-
-### Self-Mobile Entities
-
-OS Street Drone (1), flying drone (1), instrumented people (2) and non-participant bicyclists, walkers, runners, cars, and trucks. The drones and instrumented people have audio and 10-30 Hz video streams with per-frame IMU and other metadata.
-
-### Sensed Data
-
-Hierarchical breakdown by sensor platform and sensor.
-Data from each sensor is available in time series form.
-
-### Derived Data
-
-Derived data is computed from the sensed data and certain ancillary environmental data, such as the angular position of the sun. 
-The primary type of derived data is position and orientation of mobile entities. 
-This information is derived from a combination of sensed data and application of physical and geometrical constraints. 
-Identifying derived data makes it possible for downstream users of the captured data to use their own algorithms, if they choose.
 
 ## The MSF data
 
 The data capture covered bith the static environment (the :stage:) as well as the moving entities (the "actors"). 
+
+The actors included the OS Street Drone (1), flying drone (1), instrumented people (2) and non-participant bicyclists, walkers, runners, cars, and trucks. The drones and instrumented people have audio and 10-30 Hz video streams with per-frame IMU and other metadata.
+
 The data is organized by whether it represents elements of the stage, or elements attached to the actors. 
 Actor-sensed data is organised by actor ("platform"), "sensor", and data item (such as individual images) or data stream (such as video or navigation data).
 
 ### Static
+We captured two independent reference RGB point clouds (the "reference point clouds") covering the full environment of the capture. One was derived from a late morning aerial survey on 25th April and the other at mid-afternoon of the same day. The nominal positional precision of these point clouds is 2 cm. The point clouds are registered via ground control points to a local LTP-ENU tangent plane coordinate system with an estimated accuracy of 50 cm. Each point cloud has about 140 million samples.
 
-#### Orthomiages
+#### Orthoimages
 
 #### Pointclouds
 
 #### 3D Models
 
 #### Survey Control points
+
+## Portable Entities
+
+Away Team Software and Highways England provided a variety of road litter including rubbish, temporary road signs, road sign frames, sandbags, and traffic cones.
+
+![StreetDrone vehicle with road litter](../SD_Signs2.jpg)
 
 ### Handheld Nokia-5
 
@@ -72,6 +53,21 @@ The video frame rate is 4.86 fps.
 #### Camera Targets
 
 Objects in the classes "person", "car", "truck", "bicycle", and "motorcycle" were detected with a YOLO V8 CNN trained on the COCO-17 dataset. The class,onfidence, and centre-points are reported. 
+
+### Ordnance Survey Street Drone Rear Mount
+
+#### Camera Images
+
+The images are a  subset of the capture, one frame every two seconds. The frames are identified by UTC time and are on the same time base as the video. 
+Two formats - JPEG and PNG - are available. A Zip archive of all of the JPEG format images as well as a Zip archive of all of the PNG format images are available.
+
+#### Camera video
+
+The video frame rate is 4.86 fps.
+#### Camera Targets
+
+Objects in the classes "person", "car", "truck", "bicycle", and "motorcycle" were detected with a YOLO V8 CNN trained on the COCO-17 dataset. The class,onfidence, and centre-points are reported. 
+
 
 #### LiDAR 
 
