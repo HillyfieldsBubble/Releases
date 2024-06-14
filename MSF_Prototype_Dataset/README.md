@@ -89,6 +89,8 @@ Two formats - JPEG and PNG - are available. A Zip archive of all of the JPEG for
 | [Rider-3-Chest-Mount.Camera-Images.20230426_MSF_JPG.zip](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Rider-3-Chest-Mount/Camera-Images/Rider-3-Chest-Mount.Camera-Images.20230426_MSF_JPG.zip)  | JPG | 0.52 GB | --- |
 | [Rider-3-Chest-Mount.Camera-Images.20230426_MSF_PNG.zip](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Rider-3-Chest-Mount/Camera-Images/Rider-3-Chest-Mount.Camera-Images.20230426_MSF_PNG.zip)  | PNG | 2.33 GB | --- |
 
+*The individual image files:*
+
 | Platform.Sensor.Item | Type | Size | Length |
 | :---- | :---- | :---- | :---- |
 | [Rider-3-Chest-Mount.Camera-Images.20230426T134305.234Z.jpg](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/rider-3-chest-mount/camera-images/Rider-3-Chest-Mount.Camera-Images.20230426T134305.234Z.jpg)  | JPG | 2.86 MB | --- |
