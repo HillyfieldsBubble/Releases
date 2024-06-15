@@ -459,7 +459,7 @@ Two formats - JPEG and PNG - are available. A Zip archive of all of the JPEG for
 
 #### Camera Targets
 
-Objects in the classes "person", "car", "truck", "bicycle", and "motorcycle" were detected with a YOLO V8 CNN trained on the COCO-17 dataset. The class,onfidence, and centre-points are reported. 
+Objects in the classes "person", "car", "truck", "bicycle", and "motorcycle" were detected with a YOLO V8 CNN trained on the COCO-17 dataset. The class, confidence, and pixel centre-points are reported. 
 
 #### Camera Sensors
 
