@@ -49,19 +49,19 @@ Rider-4 held the Nokia 5 in addition to wearing the chect-mounted camera. No nav
 
 The image files also may be examined or downloaded as [individual files](./handheld_image_list.md).
 
-### Mavic 
+### Mavic 2 Pro - Quadcopter
+
+**+Image and description here+**
 
 #### Camera Images
 
-The images are a  subset of the capture, one frame every two seconds. The frames are identified by UTC time and are on the same time base as the video. 
+The images are a subset of the frames in the video capture, one frame every two seconds. The frames are identified by UTC time and are on the same time base as the video. 
 Two formats - JPEG and PNG - are available. A Zip archive of all of the JPEG format images as well as a Zip archive of all of the PNG format images are available.
 
 The frames are identified by UTC time and are on the same time base as the video. 
 Two formats - JPEG and PNG - are available. A Zip archive of all of the JPEG format images, a Zip archive of all of the PNG format images. and the individual images files are available.
 
-*The Zip archives:*
-
-The complete set of images in PNG or Jpeg format is available as a Zip archive:
+The complete set of images is available in Zip archives, one of PNG format images and one of Jpeg format images:
 
 | Platform.Sensor.Item | Type | Size | Length |
 | :---- | :---- | :---- | :---- |
@@ -69,7 +69,7 @@ The complete set of images in PNG or Jpeg format is available as a Zip archive:
 | [Quadcopter.Camera-Images.20230426T134400.500_MSF_PNG.zip](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Quadcopter/Camera-Images/quadcopter.video.2023-04-26t134400.500_MSF_PNG.zip)  | JPG | 724.9 MB | 203 images |
 
 
-The image files also may be examined or downloaded as [individual files](./quadcopter_image_list.md).
+The image files also may be examined or downloaded as [individual PNG or Jpeg files](./quadcopter_image_list.md).
 
 
 ### Ordnance Survey Street Drone Front Mount
