@@ -56,6 +56,8 @@ Away Team Software and Highways England provided a variety of road litter includ
 
 **+Image and description here+**
 
+#### Camera-Images
+
 Rider-4 held the Nokia 5 in addition to wearing the chect-mounted camera. No navigation sensor data was captured with the hadheld camera. The complete set of images in PNG or Jpeg format is available as a Zip archive:
 
 | Platform.Sensor.Item | Type | Size | Length |
@@ -65,9 +67,18 @@ Rider-4 held the Nokia 5 in addition to wearing the chect-mounted camera. No nav
 
 The image files also may be examined or downloaded as [individual files](./handheld_image_list.md).
 
+#### Camera Video
+
+#### Navigation-Sensors
+
+The video frame rate is 29.97 fps.
+
+
 ### Mavic 2 Pro - Quadcopter
 
 **+Image and description here+**
+
+![Quadcopter MSF Subset map.](./quadcopter_map.png)
 
 #### Camera Images
 
