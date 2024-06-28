@@ -24,21 +24,37 @@ We captured two independent reference RGB point clouds (the "reference point clo
 
 ### Orthoimages
 
+**+Image and description here+**
+
 ### Pointclouds
+
+**+Image and description here+**
 
 ### 3D Models
 
+**+Image and description here+**
+
 ### Survey Control points
+
+**+Image and description here+**
 
 ## Actors
 
+#### Static Cameras
+
+**+Image and description here+**
+
 ### Litter
+
+**+Image and description here+**
 
 Away Team Software and Highways England provided a variety of road litter including rubbish, temporary road signs, road sign frames, sandbags, and traffic cones.
 
 ![StreetDrone vehicle with road litter](../SD_Signs2.jpg)
 
 ### Handheld Nokia-5
+
+**+Image and description here+**
 
 Rider-4 held the Nokia 5 in addition to wearing the chect-mounted camera. No navigation sensor data was captured with the hadheld camera. The complete set of images in PNG or Jpeg format is available as a Zip archive:
 
@@ -78,6 +94,7 @@ The image files also may be examined or downloaded as [individual PNG or Jpeg fi
 
 
 ### Ordnance Survey Street Drone Front Mount
+
 
 **+Image and description here+**
 
