@@ -71,6 +71,11 @@ The complete set of images is available in Zip archives, one of PNG format image
 
 The image files also may be examined or downloaded as [individual PNG or Jpeg files](./quadcopter_image_list.md).
 
+#### Camera-Video
+
+
+#### Navigation-Sensors
+
 
 ### Ordnance Survey Street Drone Front Mount
 
