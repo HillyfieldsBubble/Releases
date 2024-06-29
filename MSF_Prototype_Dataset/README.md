@@ -119,6 +119,17 @@ Two formats - JPEG and PNG - are available. A Zip archive of all of the JPEG for
 
 *The Zip archives:*
 
+Streetdrone-Rear.Camera-Images.20230426T133736.530Z_MSF_JPG.zip
+
+140336.300
+
+| Platform.Sensor.Item | Type | Size | Length |
+| :---- | :---- | :---- | :---- |
+| [Streetdrone-Rear.Camera-Images.20230426T133736.530Z_MSF_JPG.zip](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Streetdrone-Rear/Camera-Images/Streetdrone-Rear.Camera-Images.20230426T133736.530Z_MSF_JPG.zip)  | JPG | 170.2 MB | 203 images |
+| [Streetdrone-Rear.Camera-Images.20230426T133736.530Z_MSF_PNG.zip](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Streetdrone-Rear/Camera-Images/Streetdrone-Rear.Camera-Images.20230426T133736.530Z_MSF_PNG.zip)  | JPG | 724.9 MB | 203 images |
+| [Streetdrone-Rear.Camera-Images.20230426T140336.300Z_MSF_JPG.zip](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Streetdrone-Rear/Camera-Images/Streetdrone-Rear.Camera-Images.20230426T140336.300Z_MSF_JPG.zip)  | JPG | 170.2 MB | 203 images |
+| [Streetdrone-Rear.Camera-Images.20230426T140336.300Z_MSF_PNG.zip](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Streetdrone-Rear/Camera-Images/Streetdrone-Rear.Camera-Images.20230426T140336.300Z_MSF_PNG.zip)  | JPG | 724.9 MB | 203 images |
+
 The image files also may be examined or downloaded as [individual PNG or Jpeg files](./streetdrone_front_image_list.md).
 
 #### Camera video
