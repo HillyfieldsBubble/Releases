@@ -15,7 +15,7 @@ Hillyfields Team: Jeremy, James, Steve, and Rob
 
 ## The MSF data
 
-The data capture covered bith the static environment (the :stage:) as well as the moving entities (the "actors"). 
+The data capture covered both the static environment (the "stage") as well as the moving entities (the "actors"). 
 
 The actors included the OS Street Drone (1), flying drone (1), instrumented people (2) and non-participant bicyclists, walkers, runners, cars, and trucks. The drones and instrumented people have audio and 10-30 Hz video streams with per-frame IMU and other metadata.
 
