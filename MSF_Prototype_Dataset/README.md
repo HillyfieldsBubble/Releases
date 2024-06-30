@@ -11,7 +11,7 @@ orientation, and image sensor sensor observations throughout the four rendezvous
 In other data captures during the two days, two additional plaforms - static cameras at a level of about 1.8 m above the surface and aimed along the Ordnance Survey car park perimeter road - were in place. These cameras were not active during the time of this MSF subset and are not included in the listings that follow.
 
 ![StreetDrone vehicle with road litter](./Streetdrone_Team.JPG)
-
+Hillyfields Team: Jeremy, James, Steve, and Rob
 
 ## The MSF data
 
