@@ -4,11 +4,11 @@ The data covers four successful rendezvous between the Ordnance Survey instrumen
 GoPro 11 cameras.
 The two people took the role of potential riders.
 
-The four rendezvous were captured on 26 April, 2023. Participants were from the Ordnance Survey UK, Away Team Software, and OpenSitePlan. The car, the riders, a person with a Nokia 5 smartphone, and a Mavic Pro 2 drone flying above the surface 
+The four rendezvous were captured on 26 April, 2023. Participants were from the Ordnance Survey UK, Away Team Software, and OpenSitePlan. The car, the riders, a person with a Nokia 5 smartphone, and a Mavic Pro 2 quadcopter flying about 30 m above the surface 
 made video, imagery, position, 
 orientation, and image sensor sensor observations throughout the four rendezvous. 
 
-
+In other data captures during the two days, two additional plaforms - static cameras at a level of about 1.8 m above the surface and aimed along the Ornance Survey car park perimeter road - were in place. These cameras were not active during the time of this MSF subset and are not included in the listings that follow.
 
 ## The MSF data
 
@@ -20,6 +20,7 @@ The data is organized by whether it represents elements of the stage, or element
 Actor-sensed data is organised by actor ("platform"), "sensor", and data item (such as individual images) or data stream (such as video or navigation data).
 
 ## The Stage
+
 We captured two independent reference RGB point clouds (the "reference point clouds") covering the full environment of the capture. One was derived from a late morning aerial survey on 25th April and the other at mid-afternoon of the same day. The nominal positional precision of these point clouds is 2 cm. The point clouds are registered via ground control points to a local LTP-ENU tangent plane coordinate system with an estimated accuracy of 50 cm. Each point cloud has about 140 million samples.
 
 ### Orthoimages
@@ -46,19 +47,22 @@ We captured two independent reference RGB point clouds (the "reference point clo
 
 ### Litter
 
+
 **+Image and description here+**
 
 Away Team Software and Highways England provided a variety of road litter including rubbish, temporary road signs, road sign frames, sandbags, and traffic cones.
+
+**++Question: is any of the litter located and visible in any of the imagery in the MSF subset++?**
 
 ![StreetDrone vehicle with road litter](../SD_Signs2.jpg)
 
 ### Handheld Nokia-5
 
-**+Image and description here+**
+The Nokia 5 ![Nokia 5](./Nokia_5.png) is an Android smartphone equipped with an 8 MP 8-bit RGB pixel camera.
 
 #### Camera-Images
 
-Rider-4 held the Nokia 5 in addition to wearing the chect-mounted camera. No navigation sensor data was captured with the hadheld camera. The complete set of images in PNG or Jpeg format is available as a Zip archive:
+Rider-4 held the Nokia 5 in addition to wearing the chect-mounted camera. No navigation sensor data was captured with the handheld camera. The complete set of images in PNG or Jpeg format is available as a Zip archive:
 
 | Platform.Sensor.Item | Type | Size | Length |
 | :---- | :---- | :---- | :---- |
@@ -76,7 +80,7 @@ The video frame rate is 29.97 fps.
 
 ### Mavic 2 Pro - Quadcopter
 
-**+Image and description here+**
+The DJI Mavic 2 Pro ![DJI Mavic 2 Pro](./DJI_Mavic_2_Pro.png) is a small quadcopter equipped with a 5472 x 3168 8-bit RGB pixel camera.
 
 ![Quadcopter MSF Subset map.](./quadcopter_map.png)
 
