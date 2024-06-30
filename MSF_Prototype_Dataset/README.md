@@ -58,7 +58,12 @@ Away Team Software and Highways England provided a variety of road litter includ
 
 ### Handheld Nokia-5
 
-The Nokia 5 ![Nokia 5](./Nokia_5.png) is an Android smartphone equipped with an 8 MP 8-bit RGB pixel camera.
+The Nokia 5  is an Android smartphone equipped with an 8 MP 8-bit RGB pixel camera.
+
+<div style="width:50%; margin: auto;">
+
+![Nokia 5](./Nokia_5.png)
+</div>
 
 #### Camera-Images
 
@@ -80,9 +85,19 @@ The video frame rate is 29.97 fps.
 
 ### Mavic 2 Pro - Quadcopter
 
-The DJI Mavic 2 Pro ![DJI Mavic 2 Pro](./DJI_Mavic_2_Pro.png) is a small quadcopter equipped with a 5472 x 3168 8-bit RGB pixel camera.
+The DJI Mavic 2 Pro 
+
+<div style="width:50%; margin: auto;">
+
+![DJI Mavic 2 Pro](./DJI_Mavic_2_Pro.png)
+</div>
+
+ is a small quadcopter equipped with a 5472 x 3168 8-bit RGB pixel camera.
+
+<div style="width:75%; margin: auto;">
 
 ![Quadcopter MSF Subset map.](./quadcopter_map.png)
+</div>
 
 #### Camera Images
 
