@@ -104,13 +104,11 @@ The DJI Mavic 2 Pro
 
 #### Camera Images
 
-The images are a subset of the frames in the video capture, one frame every two seconds. The frames are identified by UTC time and are on the same time base as the video. 
-Two formats - JPEG and PNG - are available. A Zip archive of all of the JPEG format images as well as a Zip archive of all of the PNG format images are available.
+The images are a subset of the frames in the video capture, one frame every two seconds.
 
 The frames are identified by UTC time and are on the same time base as the video. 
-Two formats - JPEG and PNG - are available. A Zip archive of all of the JPEG format images, a Zip archive of all of the PNG format images. and the individual images files are available.
 
-The complete set of images is available in Zip archives, one of PNG format images and one of Jpeg format images:
+JPEG and PNG format images are available in Zip archives:
 
 | Platform.Sensor.Item | Type | Size | Length |
 | :---- | :---- | :---- | :---- |
