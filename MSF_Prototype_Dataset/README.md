@@ -8,7 +8,10 @@ The four rendezvous were captured on 26 April, 2023. Participants were from the 
 made video, imagery, position, 
 orientation, and image sensor sensor observations throughout the four rendezvous. 
 
-In other data captures during the two days, two additional plaforms - static cameras at a level of about 1.8 m above the surface and aimed along the Ornance Survey car park perimeter road - were in place. These cameras were not active during the time of this MSF subset and are not included in the listings that follow.
+In other data captures during the two days, two additional plaforms - static cameras at a level of about 1.8 m above the surface and aimed along the Ordnance Survey car park perimeter road - were in place. These cameras were not active during the time of this MSF subset and are not included in the listings that follow.
+
+![StreetDrone vehicle with road litter](./Streetdrone_Team.jpg)
+
 
 ## The MSF data
 
@@ -54,7 +57,7 @@ Away Team Software and Highways England provided a variety of road litter includ
 
 **++Question: is any of the litter located and visible in any of the imagery in the MSF subset++?**
 
-![StreetDrone vehicle with road litter](../SD_Signs2.jpg)
+![StreetDrone vehicle with road litter](./Streetdrone_Team.jpg)
 
 ### Handheld Nokia-5
 
@@ -124,6 +127,7 @@ The image files also may be examined or downloaded as [individual PNG or Jpeg fi
 
 
 ### Ordnance Survey Street Drone Front Mount
+
 
 
 **+Image and description here+**
