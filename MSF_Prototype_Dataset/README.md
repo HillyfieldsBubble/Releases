@@ -58,7 +58,7 @@ Away Team Software and Highways England provided a variety of road litter includ
 
 ### Handheld Nokia-5
 
-The Nokia 5  is an Android smartphone equipped with an 8 MP 8-bit RGB pixel camera.
+The Nokia 5  is an Android smartphone equipped with a 13 MP 8-bit RGB pixel camera.
 
 <div style="width:50%; margin: auto;">
 
