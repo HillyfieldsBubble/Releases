@@ -1,8 +1,10 @@
 # Metaverse Standards Forum Support Data
 This is a subset of the data capture, selected to support prototype development in the Metaverse Standards Forum (MSF) Real/Virtual Integration Working Group. 
-The data covers four successful rendezvous between the Ordnance Survey instrumented road vehicle (the "Street Drone" or the "car") and two people ("rider-3" and "rider 4") wearing chest-mounted 
+The data covers four successful rendezvous between the Ordnance Survey instrumented road vehicle (the "Streetdrone" or the "car") and two people ("rider-3" and "rider 4") wearing chest-mounted 
 GoPro 11 cameras.
-The two people took the role of potential riders.
+These two people took the role of potential riders.
+
+The rendezvous were observed by the quadcopter and a person holding a smartphone. The quadcopter had extensivie navigation ond camera positioning sensor data.
 
 The four rendezvous were captured on 26 April, 2023. Participants were from the Ordnance Survey UK, Away Team Software, and OpenSitePlan. The car, the riders, a person with a Nokia 5 smartphone, and a Mavic Pro 2 quadcopter flying about 30 m above the surface 
 made video, imagery, position, 
@@ -81,10 +83,15 @@ The image files also may be examined or downloaded as [individual files](./handh
 
 #### Camera Video
 
-#### Navigation-Sensors
-
 The video frame rate is 29.97 fps.
 
+| Platform.Sensor.Item | Type | Size | Length |
+| :---- | :---- | :---- | :---- |
+| [Handheld-Nokia-5/Camera-Video/Handheld-Nokia-5.Camera-Video.20230426T134102.000.mp4](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Handheld-Nokia-5/Camera-Video/Handheld-Nokia-5.Camera-Video.20230426T134102.000.mp4)  | JPG | 36.9 MB | 1 file |
+
+#### Navigation-Sensors
+
+No navigation data is available.
 
 ### Mavic 2 Pro - Quadcopter
 
@@ -95,7 +102,7 @@ The DJI Mavic 2 Pro
 ![DJI Mavic 2 Pro](./DJI_Mavic_2_Pro.png)
 </div>
 
- is a small quadcopter equipped with a 5472 x 3168 8-bit RGB pixel camera.
+ is a small quadcopter equipped with navigation sensors and a 5472 x 3168 8-bit RGB pixel camera.
 
 <div style="width:75%; margin: auto;">
 
@@ -104,7 +111,7 @@ The DJI Mavic 2 Pro
 
 #### Camera Images
 
-The images are a subset of the frames in the video capture, one frame every two seconds.
+The images are a subset of the frames in the video capture, one frame every two seconds +/- 1 frame time.
 
 The frames are identified by UTC time and are on the same time base as the video. 
 
@@ -120,9 +127,77 @@ The image files also may be examined or downloaded as [individual PNG or Jpeg fi
 
 #### Camera-Video
 
+The video frame rate is 29.97 fps.
+
+| Platform.Sensor.Item | Type | Size | Length |
+| :---- | :---- | :---- | :---- |
+| [Handheld-Nokia-5/Camera-Video/Handheld-Nokia-5.Camera-Video.20230426T134102.000.mp4](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Handheld-Nokia-5/Camera-Video/Handheld-Nokia-5.Camera-Video.20230426T134102.000.mp4)  | JPG | 36.9 MB | 1 file |
 
 #### Navigation-Sensors
 
+The navigation sensors include:
+
+| Observation | Unit | Example |
+| :---- | :---- | :---- |
+|time|millisecond| 0||
+|datetime| UTC ISO 8601| "2023-04-26T13:36:29"||
+|latitude| deg |50.9390740274084||
+|longitude| deg |-1.47070129923931||
+|height_above_takeoff| feet| 18.3||
+|height_above_ground_at_drone_location| feet| 23.2||
+|ground_elevation_at_drone_location|feet|| 46.954438182332|
+|altitude_above_seaLevel|feet|| 46.954438182332|
+|height_sonar|feet|| 0.328084|
+|speed|mph| 0|
+|distance|feet| 0|
+|mileage|feet| 0|
+|satellites| 14|
+|gpslevel| 4|
+|voltage|volt| 0|
+|max_altitude|feet|| 46.954438182332|
+|max_ascent|feet| 0|
+|max_speed|mph| 0|
+|max_distance|feet|| 0|
+|xSpeed|mph| 0|
+|ySpeed|mph| 0|
+|zSpeed|mph| 0|
+|compass_heading|deg| 282.2|
+|pitch|deg| 2.5|
+|roll|deg|| 0|
+|isPhoto| 0/1|0|
+|isVideo| 0/1|0|
+|rc_elevator| n/a||
+|rc_aileron| n/a||
+|rc_throttle| n/a||
+|rc_rudder| n/a||
+|rc_elevator|percent| -100|
+|rc_aileron|percent| -100|
+|rc_throttle|percent| -100|
+|rc_rudder|percent| 100|
+|gimbal_heading|deg| 281.9|
+|gimbal_pitch|deg| 0|
+|gimbal_roll|deg| 0|
+|battery_percent|percent| 99|
+|voltageCell1|volt|4.104|
+|voltageCell2|volt|4.095|
+|voltageCell3|volt|4.084|
+|voltageCell4|volt|4.103|
+|voltageCell5| n/a||
+|voltageCell6| n/a||
+|current|ampere| 0||
+|battery_temperature|deg F|64.4|
+|altitude|feet|46.954438182332|
+|ascent|feet|0|
+|flycStateRaw| n/a||
+|flycState| n/a||
+|Motors_Started"| n/a||
+|message| n/a||
+
+The data are contained in a single Json file with one object containing observations for each sensor for each observation time:
+
+| Platform.Sensor.Item | Type | Size | Length |
+| :---- | :---- | :---- | :---- |
+| [Quadcopter/Navigation-Sensors/Quadcopter.Navigation-Sensors.2023-04-26t134400.500.json](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Quadcopter/Navigation-Sensors/Quadcopter.Navigation-Sensors.2023-04-26t134400.500.json)  | JPG | 36.9 MB | 1 file |
 
 ### Ordnance Survey Street Drone Front Mount
 
