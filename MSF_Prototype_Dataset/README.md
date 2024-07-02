@@ -299,6 +299,14 @@ The navigation sensors include:
 |VDOP|| 1.26885775404495|
 |HDOP|| 0.8|
 
+The data are contained in a single Json file with one object containing observations for each sensor for each observation time:
+
+| Platform.Sensor.Item | Type | Size | Length |
+| :---- | :---- | :---- | :---- |
+| [StreetDrone-Top/Navigation-Sensors/Streetdrone-Top.Navigation-Sensors.20230426T133736.530Z.json](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/StreetDrone-Top/Navigation-Sensors/Streetdrone-Top.Navigation-Sensors.20230426T133736.530Z.json)  | JPG | 30.9 MB | 1 file |
+
+"D:\Staging\Bubble\Actors\StreetDrone-Top\Navigation-Sensors\Streetdrone-Top.Navigation-Sensors.20230426T133736.530Z.json"
+
 ### Person - "Rider 3" Chest Mount
 
 The frames are identified by UTC time and are on the same time base as the video. 
