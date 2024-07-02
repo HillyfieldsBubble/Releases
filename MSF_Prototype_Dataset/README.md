@@ -269,6 +269,36 @@ Objects in the classes "person", "car", "truck", "bicycle", and "motorcycle" wer
 
 #### Pointclouds
 
+#### Navigation-Sensors
+
+The navigation sensors include:
+
+| Observation | Unit | Example |
+| :---- | :---- | :---- |
+|Time|HH mm ss.fff| "11 02 48.010"|
+|Time|GPS µs| 1366542186010000.0000|
+|UTC offset|s| -18|
+|Time from start of file|mm ss.fff| "188 10.010"|
+|Latitude|deg| 50.9389620413194|
+|Longitude|deg| -1.47078664837296|
+|Altitude|m| 60.588249206543|
+|Position accuracy down|m| 0.059|
+|Position accuracy east|m| 0.018|
+|Position accuracy north|m| 0.019|
+|Heading|deg| 237.268830648868|
+|Pitch|deg| -1.8420593113456|
+|Roll|deg| 0.36285417165635|
+|Heading accuracy|deg| 0.0819329647037077|
+|Pitch accuracy|deg| 0.103132403123548|
+|Roll accuracy|deg| 0.116883390206688|
+|Number of GNSS satellites used|| 31|
+|GPS position mode|| RTK Integer 6|
+|GPS velocity mode|| gxInteger 24|
+|GPS dual antenna attitude mode|| ixInteger 29|
+|PDOP|| 1.5|
+|VDOP|| 1.26885775404495|
+|HDOP|| 0.8|
+
 ### Person - "Rider 3" Chest Mount
 
 The frames are identified by UTC time and are on the same time base as the video. 
