@@ -201,8 +201,12 @@ The data are contained in a single Json file with one object containing observat
 
 ### Ordnance Survey Street Drone Front Mount
 
+<div style="width:40%; margin: auto;">
+
 ![The OS Streetdrone](./Streetdrone.jpg)
-OS Streetdrone
+</div>
+
+The OS Streetdrone
 
 #### Camera Images
 
