@@ -327,6 +327,11 @@ The data are contained in a single Json file with one object containing observat
 The frames are identified by UTC time and are on the same time base as the video. 
 Two formats - JPEG and PNG - are available. A Zip archive of all of the JPEG format images, a Zip archive of all of the PNG format images. and the individual images files are available.
 
+
+#### Camera images
+The images are a  subset of the capture, one frame every two seconds. The frames are identified by UTC time and are on the same time base as the video. 
+Two formats - JPEG and PNG - are available. A Zip archive of all of the JPEG format images as well as a Zip archive of all of the PNG format images are available.
+
 *The Zip archives:*
 
 | Platform.Sensor.Item | Type | Size | Length |
@@ -334,14 +339,7 @@ Two formats - JPEG and PNG - are available. A Zip archive of all of the JPEG for
 | [Rider-3-Chest-Mount.Camera-Images.20230426_MSF_JPG.zip](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Rider-3-Chest-Mount/Camera-Images/Rider-3-Chest-Mount.Camera-Images.20230426_MSF_JPG.zip)  | JPG | 0.52 GB | 180 images |
 | [Rider-3-Chest-Mount.Camera-Images.20230426_MSF_PNG.zip](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Rider-3-Chest-Mount/Camera-Images/Rider-3-Chest-Mount.Camera-Images.20230426_MSF_PNG.zip)  | PNG | 2.33 GB | 180 images |
 
-*The individual image files:*
-
-
-#### Camera images
-The images are a  subset of the capture, one frame every two seconds. The frames are identified by UTC time and are on the same time base as the video. 
-Two formats - JPEG and PNG - are available. A Zip archive of all of the JPEG format images as well as a Zip archive of all of the PNG format images are available.
-
-The image files also may be examined or downloaded as [individual PNG or Jpeg files](./rider-3_image_list.md).
+The individual image files also may be examined or downloaded as [individual PNG or Jpeg files](./rider-3_image_list.md).
 
 #### Camera Video
 
@@ -365,8 +363,12 @@ Two formats - JPEG and PNG - are available. A Zip archive of all of the JPEG for
 
 *The Zip archives:*
 
+| Platform.Sensor.Item | Type | Size | Length |
+| :---- | :---- | :---- | :---- |
+| [Rider-4-Chest-Mount.Camera-Images.20230426_MSF_JPG.zip](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Rider-4-Chest-Mount/Camera-Images/Rider-4-Chest-Mount.Camera-Images.20230426_MSF_JPG.zip)  | JPG | 0.52 GB | 180 images |
+| [Rider-4-Chest-Mount.Camera-Images.20230426_MSF_PNG.zip](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Rider-4-Chest-Mount/Camera-Images/Rider-4-Chest-Mount.Camera-Images.20230426_MSF_PNG.zip)  | PNG | 2.33 GB | 180 images |
 
-The image files also may be examined or downloaded as [individual PNG or Jpeg files](./rider-4_image_list.md).
+The individual image files also may be examined or downloaded as [individual PNG or Jpeg files](./rider-4_image_list.md).
 
 #### Camera Video
 
