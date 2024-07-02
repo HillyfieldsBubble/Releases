@@ -206,7 +206,7 @@ The data are contained in a single Json file with one object containing observat
 ![The OS Streetdrone](./Streetdrone.jpg)
 </div>
 
-The OS Streetdrone front.
+The OS Streetdrone front cameras.
 
 #### Camera Images
 
@@ -234,7 +234,7 @@ The video frame rate is 4.86 fps.
 
 Objects in the classes "person", "car", "truck", "bicycle", and "motorcycle" were detected with a YOLO V8 CNN trained on the COCO-17 dataset. The class,onfidence, and centre-points are reported. 
 
-### Ordnance Survey Street Drone Rear Mount
+### Ordnance Survey Street Drone Rear-Facing Camera
 
 
 <div style="width:60%; margin: auto;">
@@ -242,7 +242,7 @@ Objects in the classes "person", "car", "truck", "bicycle", and "motorcycle" wer
 ![The OS Streetdrone](./Streetdrone_Rear.png)
 </div>
 
-The OS Streetdrone rear.
+The OS Streetdrone rear cameras.
 
 
 #### Camera Images
@@ -318,6 +318,12 @@ The data are contained in a single Json file with one object containing observat
 
 ### Person - "Rider 3" Chest Mount
 
+
+<div style="width:60%; margin: auto;">
+
+![Rider-3](./Rider-3.png)
+</div>
+
 The frames are identified by UTC time and are on the same time base as the video. 
 Two formats - JPEG and PNG - are available. A Zip archive of all of the JPEG format images, a Zip archive of all of the PNG format images. and the individual images files are available.
 
@@ -346,6 +352,12 @@ Objects in the classes "person", "car", "truck", "bicycle", and "motorcycle" wer
 #### Camera Sensors
 
 ### Person - "Rider 4" Chest Mount
+
+<div style="width:60%; margin: auto;">
+
+![Rider-3](./Rider-4.png)
+</div>
+
 
 #### Camera images
 The images are a  subset of the capture, one frame every two seconds. The frames are identified by UTC time and are on the same time base as the video. 
