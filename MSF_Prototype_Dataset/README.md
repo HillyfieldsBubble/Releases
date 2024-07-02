@@ -201,12 +201,12 @@ The data are contained in a single Json file with one object containing observat
 
 ### Ordnance Survey Street Drone Front Mount
 
-<div style="width:40%; margin: auto;">
+<div style="width:80%; margin: auto;">
 
 ![The OS Streetdrone](./Streetdrone.jpg)
 </div>
 
-The OS Streetdrone
+The OS Streetdrone front.
 
 #### Camera Images
 
@@ -235,6 +235,15 @@ The video frame rate is 4.86 fps.
 Objects in the classes "person", "car", "truck", "bicycle", and "motorcycle" were detected with a YOLO V8 CNN trained on the COCO-17 dataset. The class,onfidence, and centre-points are reported. 
 
 ### Ordnance Survey Street Drone Rear Mount
+
+
+<div style="width:80%; margin: auto;">
+
+![The OS Streetdrone](./Streetdrone_Rear.png)
+</div>
+
+The OS Streetdrone rear.
+
 
 #### Camera Images
 
