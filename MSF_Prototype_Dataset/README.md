@@ -319,7 +319,7 @@ The data are contained in a single Json file with one object containing observat
 ### Person - "Rider 3" Chest Mount
 
 
-<div style="width:60%; margin: auto;">
+<div style="width:30%; margin: auto;">
 
 ![Rider-3](./Rider-3.png)
 </div>
@@ -353,7 +353,7 @@ Objects in the classes "person", "car", "truck", "bicycle", and "motorcycle" wer
 
 ### Person - "Rider 4" Chest Mount
 
-<div style="width:60%; margin: auto;">
+<div style="width:30%; margin: auto;">
 
 ![Rider-3](./Rider-4.png)
 </div>
