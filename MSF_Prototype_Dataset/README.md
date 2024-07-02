@@ -201,7 +201,7 @@ The data are contained in a single Json file with one object containing observat
 
 ### Ordnance Survey Street Drone Front Mount
 
-<div style="width:100%; margin: auto;">
+<div style="width:120%; margin: auto;">
 
 ![The OS Streetdrone](./Streetdrone.jpg)
 </div>
@@ -237,7 +237,7 @@ Objects in the classes "person", "car", "truck", "bicycle", and "motorcycle" wer
 ### Ordnance Survey Street Drone Rear Mount
 
 
-<div style="width:80%; margin: auto;">
+<div style="width:60%; margin: auto;">
 
 ![The OS Streetdrone](./Streetdrone_Rear.png)
 </div>
