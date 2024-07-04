@@ -38,11 +38,26 @@ Vertical photo surveys were made in the morning before and in the afternoon afte
 
 ### Pointclouds
 
-Pointclouds were computed photogrammetrically for the morning and afternoon surveys as shown here ![morning pointcloud ](../Hillyfields_Control.png). The positions are available in 
+Pointclouds were computed photogrammetrically for the morning and afternoon surveys as shown here: 
+![morning pointcloud ](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Pointclouds/Morning/Morning_Point_Cloud.jpg). The positions are available in 
 
 | Platform.Sensor.Item | Type | Size | Length |
 | :---- | :---- | :---- | :---- |
-| [Stage.Metrics.Control/OS_GCP_HQAP_2.GeoJson](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Metrics/Control/OS_GCP_HQAP_2.GeoJSON)  | GeoJson | 18.1 KB | 1 file |
+| [Stage.Pointclouds.Morning/OS_GCP_HQAP_2.GeoJson](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Pointclouds/Morning/Morning_Point_Cloud.laz)  | GeoJson | 18.1 KB | 1 file |
+
+Here is a short video:
+[morning pointcloud ](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Pointclouds/Morning/Morning_Survey_Pointcloud.mp4)
+
+The afternoon pointcloud:
+![afternoon pointcloud ](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Pointclouds/Afternoon/Afternoon_Point_Cloud.jpg). The positions are available in 
+
+| Platform.Sensor.Item | Type | Size | Length |
+| :---- | :---- | :---- | :---- |
+| [Stage.Pointclouds.Morning/OS_GCP_HQAP_2.GeoJson](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Pointclouds/Morning/Morning_Point_Cloud.laz)  | GeoJson | 18.1 KB | 1 file |
+
+Here is a short video:
+[afternoon pointcloud ](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Pointclouds/Afternoon/Afternoon_Survey_Pointcloud.mp4)
+
 
 ### 3D Models
 
