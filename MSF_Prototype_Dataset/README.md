@@ -32,13 +32,13 @@ We captured two independent reference RGB point clouds (the "reference point clo
 
 ### Orthoimages
 
-Vertical photo surveys were made in the morning before and in the afternoon after the data capture on April 25th: ![morning survey](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Orthomosaics/Morning/Morning_Orthomosaic.jpg) also  as Tiff[ image](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Orthomosaics/Morning/Morning_Orthomosaic.tif) + [world file ](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Orthomosaics/Morning/Morning_Orthomosaic.tfw), and
+Vertical photo surveys were made in the morning before and in the afternoon after the data capture on April 25th. Using the control points, these were merged into orthophoto mosaics. ![morning survey](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Orthomosaics/Morning/Morning_Orthomosaic.jpg) also  as Tiff[ image](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Orthomosaics/Morning/Morning_Orthomosaic.tif) + [world file ](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Orthomosaics/Morning/Morning_Orthomosaic.tfw), and
 
 ![afternoon survey](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Orthomosaics/Afternoon/Afternoon_Orthomosaic.jpg) also as Tiff [image](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Orthomosaics/Afternoon/Afternoon_Orthomosaic.tif) + [world file](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Orthomosaics/Afternoon/Afternoon_Orthomosaic.tfw)
 
 ### Pointclouds
 
-Pointclouds were computed photogrammetrically for the morning and afternoon surveys as shown in a vertical view here: 
+Pointclouds were computed photogrammetrically from the survey photos for the morning and afternoon surveys as shown in a vertical view here: 
 ![morning pointcloud ](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Pointclouds/Morning/Morning_Point_Cloud.jpg)
 
 The full pointcloud is in 
