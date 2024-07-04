@@ -38,14 +38,17 @@ Vertical photo surveys were made in the morning before and in the afternoon afte
 
 ### Pointclouds
 
-Pointclouds were computed photogrammetrically for the morning and afternoon surveys as shown here: 
-![morning pointcloud ](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Pointclouds/Morning/Morning_Point_Cloud.jpg). The positions are available in 
+Pointclouds were computed photogrammetrically for the morning and afternoon surveys as shown in a vertical view here: 
+![morning pointcloud ](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Pointclouds/Morning/Morning_Point_Cloud.jpg)
+
+The full pointcloud is in 
 
 | Platform.Sensor.Item | Type | Size | Length |
 | :---- | :---- | :---- | :---- |
-| [Stage.Pointclouds.Morning/OS_GCP_HQAP_2.GeoJson](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Pointclouds/Morning/Morning_Point_Cloud.laz)  | GeoJson | 18.1 KB | 1 file |
+| [Stage.Pointclouds.Morning.Morning_Point_Cloud.laz](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Pointclouds/Morning/Morning_Point_Cloud.laz)  | laz | 1.06 GB | 1 file |
 
-Here is a short video:
+
+Here is a short video that gives a better idea of the coverage and structure of the morning pointcloud:
 [morning pointcloud ](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Pointclouds/Morning/Morning_Survey_Pointcloud.mp4)
 
 The afternoon pointcloud:
@@ -53,9 +56,9 @@ The afternoon pointcloud:
 
 | Platform.Sensor.Item | Type | Size | Length |
 | :---- | :---- | :---- | :---- |
-| [Stage.Pointclouds.Morning/OS_GCP_HQAP_2.GeoJson](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Pointclouds/Morning/Morning_Point_Cloud.laz)  | GeoJson | 18.1 KB | 1 file |
+| [Stage.Pointclouds.Afternoon/Afternoon_Point_Cloud.laz](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Pointclouds/Afternoon/Afternoon_Point_Cloud.laz)  | laz | 1.06 GB | 1 file |
 
-Here is a short video:
+Here is a that gives a better idea of the coverage and structure of the Afternoon pointcloud:
 [afternoon pointcloud ](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Pointclouds/Afternoon/Afternoon_Survey_Pointcloud.mp4)
 
 
