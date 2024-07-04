@@ -32,35 +32,45 @@ We captured two independent reference RGB point clouds (the "reference point clo
 
 ### Orthoimages
 
-**+Image and description here+**
+Vertical photo surveys were made in the morning before and in the afternoon after the data capture on April 25th: ![morning survey](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Orthomosaics/Morning/Morning_Orthomosaic.jpg) also  as Tiff[ image](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Orthomosaics/Morning/Morning_Orthomosaic.tif) + [world file ](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Orthomosaics/Morning/Morning_Orthomosaic.tfw), and
+
+![afternoon survey](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Orthomosaics/Afternoon/Afternoon_Orthomosaic.jpg) also as Tiff [image](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Orthomosaics/Afternoon/Afternoon_Orthomosaic.tif) + [world file](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Orthomosaics/Afternoon/Afternoon_Orthomosaic.tif)
 
 ### Pointclouds
 
-**+Image and description here+**
+Pointclouds were computed photogrammetrically for the morning and afternoon surveys as shown here ![morning pointcloud ](../Hillyfields_Control.png). The positions are available in 
+
+| Platform.Sensor.Item | Type | Size | Length |
+| :---- | :---- | :---- | :---- |
+| [Stage.Metrics.Control/OS_GCP_HQAP_2.GeoJson](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Metrics/Control/OS_GCP_HQAP_2.GeoJSON)  | GeoJson | 18.1 KB | 1 file |
 
 ### 3D Models
 
-**+Image and description here+**
+The Ordnance Survey has a number of surveyed control points as shown here ![control points](./Hillyfields_Control.png). The positions are available in 
+
+| Platform.Sensor.Item | Type | Size | Length |
+| :---- | :---- | :---- | :---- |
+| [Stage.Metrics.Control/OS_GCP_HQAP_2.GeoJson](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Metrics/Control/OS_GCP_HQAP_2.GeoJSON)  | GeoJson | 18.1 KB | 1 file |
 
 ### Survey Control points
 
-**+Image and description here+**
+The Ordnance Survey has a number of surveyed control points as shown here ![control points](./Hillyfields_Control.png). The positions are available in 
+
+| Platform.Sensor.Item | Type | Size | Length |
+| :---- | :---- | :---- | :---- |
+| [Stage.Metrics.Control/OS_GCP_HQAP_2.GeoJson](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Metrics/Control/OS_GCP_HQAP_2.GeoJSON)  | GeoJson | 18.1 KB | 1 file |
 
 ## Actors
 
 #### Static Cameras
 
-**+Image and description here+**
+The static cameras were not used during the collection of the MSF data subset.
 
 ### Litter
 
-No litter data was captured for this subset.
-
-**+Image and description here+**
-
 Away Team Software and Highways England provided a variety of road litter including rubbish, temporary road signs, road sign frames, sandbags, and traffic cones.
 
-**++Question: is any of the litter located and visible in any of the imagery in the MSF subset++?**
+**++Litter located and visible in the imagery in the MSF subset is in a WMT file to be provided.**
 
 ![StreetDrone vehicle with road litter](./Streetdrone_Team.jpg)
 
@@ -281,9 +291,9 @@ Objects in the classes "person", "car", "truck", "bicycle", and "motorcycle" wer
 
 #### Pointclouds
 
-Streetdrone [pointcloud data](./Streetdrone_Pointcloud.mp4) derived from the onboard LiDAR is available as a [.laz file](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/StreetDrone-Top/Pointclouds/Streetdrone_Pointcloud.laz) covering the area of the rendezvous.
+Streetdrone [pointcloud data](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/StreetDrone-Top/Pointclouds/Streetdrone_Pointcloud.mp4) derived from the onboard LiDAR is available as a [.laz file](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/StreetDrone-Top/Pointclouds/Streetdrone_Pointcloud.laz) covering the area of the rendezvous.
 
-A [glTF model](./Streetdrone_model.mp4) derived from the pointcloud is available as a [.glb file](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/StreetDrone-Top/Pointclouds/Streetdrone_Model.glb)
+A [glTF model](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/StreetDrone-Top/Pointclouds//Streetdrone_model.mp4) derived from the pointcloud is available as a [.glb file](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/StreetDrone-Top/Pointclouds/Streetdrone_Model.glb)
 
 
 #### Navigation-Sensors
