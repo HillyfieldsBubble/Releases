@@ -4,6 +4,8 @@ The data covers four successful rendezvous between the Ordnance Survey instrumen
 GoPro 11 cameras.
 These two people took the role of potential riders.
 
+![StreetDrone vehicle with road litter](./Streetdrone_Team.jpg)
+
 The rendezvous were observed by the quadcopter and a person holding a smartphone. The quadcopter had extensivie navigation ond camera positioning sensor data.
 
 The four rendezvous were captured on 26 April, 2023. Participants were from the Ordnance Survey UK, Away Team Software, and OpenSitePlan. The car, the riders, a person with a Nokia 5 smartphone, and a Mavic Pro 2 quadcopter flying about 30 m above the surface 
@@ -52,6 +54,7 @@ We captured two independent reference RGB point clouds (the "reference point clo
 
 ### Litter
 
+No litter data was captured for this subset.
 
 **+Image and description here+**
 
@@ -277,6 +280,11 @@ Objects in the classes "person", "car", "truck", "bicycle", and "motorcycle" wer
 #### LiDAR 
 
 #### Pointclouds
+
+Streetdrone [pointcloud data](./Streetdrone_Pointcloud.mp4) derived from the onboard LiDAR is available as a [.laz file](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/StreetDrone-Top/Pointclouds/Streetdrone_Pointcloud.laz) covering the area of the rendezvous.
+
+A [glTF model](./Streetdrone_model.mp4) derived from the pointcloud is available as a [.glb file](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/StreetDrone-Top/Pointclouds/Streetdrone_Model.glb)
+
 
 #### Navigation-Sensors
 
