@@ -4,7 +4,7 @@ The data covers four successful rendezvous between the Ordnance Survey instrumen
 GoPro 11 cameras.
 These two people took the role of potential riders.
 
-![StreetDrone vehicle with road litter](./Streetdrone_Team.jpg)
+![StreetDrone and team](./Streetdrone_Team.jpg)
 
 The rendezvous were observed by the quadcopter and a person holding a smartphone. The quadcopter had extensivie navigation ond camera positioning sensor data.
 
@@ -88,7 +88,22 @@ The static cameras were not used during the collection of the MSF data subset.
 
 Away Team Software and Highways England provided a variety of road litter including rubbish, temporary road signs, road sign frames, sandbags, and traffic cones.
 
-**++Litter located and visible in the imagery in the MSF subset is in a WMT file to be provided.**
+Target litter objects were placed at the roadside during filming on 25 and 26 April 2023 to support the litter monitoring use case. 
+Thesee fall into two categories:
+1. Litter such as:
+    * Metal drink cans
+    * Plastic bottles - clear & coloured
+    * Wooden transportation palettes
+ 1. Roadworks equipment including:
+    * Metal A-frames for road signs
+    * Temporary road signs
+    * Traffic cones
+    * Lights for traffic cones
+
+![Road sign A-frame, plastic bottle & traffic cone with light](./FrameNoSign.jpg)
+Some of the road litter objects placed during the data capture.
+
+Locations of these objects are provided in a [VMT file](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Litter/20230426_litter.vmt)  and a [GeoJSON file](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Litter/Litter.April26.geojson). ![Here](./Litter_Location_Map.png) is a map of the 14 placed litter objects.
 
 ![StreetDrone vehicle with road litter](./Streetdrone_Team.jpg)
 

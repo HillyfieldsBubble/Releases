@@ -1,0 +1,26 @@
+WEBVMT
+
+MEDIA
+
+MAP
+lat:50.937939
+lng:-1.471556
+rad:250
+
+NOTE Litter locations on 26/04/23
+
+00:00:00.000 -->
+{"circle":{"lat":50.937383,"lng":-1.472247,"rad":0.5,"zone":"stand-without-sign"}}
+{"circle":{"lat":50.937379,"lng":-1.472264,"rad":0.1,"zone":"cone-with-light-a"}}
+{"circle":{"lat":50.937897,"lng":-1.472542,"rad":0.1,"zone":"cone-with-light-b"}}
+{"circle":{"lat":50.936795,"lng":-1.472142,"rad":0.1,"zone":"white-beer-can-a"}}
+{"circle":{"lat":50.936714,"lng":-1.472242,"rad":0.1,"zone":"white-plastic-bottle-a"}}
+{"circle":{"lat":50.936657,"lng":-1.471587,"rad":0.1,"zone":"grey-plastic-bottle"}}
+{"circle":{"lat":50.937390,"lng":-1.472240,"rad":0.1,"zone":"clear-plastic-bottle-a"}}
+{"circle":{"lat":50.938148,"lng":-1.472505,"rad":0.1,"zone":"white-plastic-bottle-b"}}
+{"circle":{"lat":50.938587,"lng":-1.472358,"rad":0.1,"zone":"white-beer-can-b"}}
+{"circle":{"lat":50.939108,"lng":-1.471390,"rad":0.5,"zone":"stand-with-sign"}}
+{"circle":{"lat":50.939103,"lng":-1.471400,"rad":0.1,"zone":"cone-with-light-c"}}
+{"circle":{"lat":50.939125,"lng":-1.471422,"rad":1,"zone":"wooden-palettes"}}
+{"circle":{"lat":50.938995,"lng":-1.470695,"rad":0.1,"zone":"cone-d"}}
+{"circle":{"lat":50.938983,"lng":-1.470901,"rad":0.1,"zone":"cone-with-light-e"}}
