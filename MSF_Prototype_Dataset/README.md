@@ -101,11 +101,11 @@ Thesee fall into two categories:
     * Lights for traffic cones
 
 ![Road sign A-frame, plastic bottle & traffic cone with light](./FrameNoSign.jpg)
+
 Some of the road litter objects placed during the data capture.
 
 Locations of these objects are provided in a [VMT file](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Litter/20230426_litter.vmt)  and a [GeoJSON file](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Litter/Litter.April26.geojson). ![Here](./Litter_Location_Map.png) is a map of the 14 placed litter objects.
 
-![StreetDrone vehicle with road litter](./Streetdrone_Team.jpg)
 
 ### Handheld Nokia-5
 
@@ -137,7 +137,7 @@ The video frame rate is 29.97 fps.
 
 #### Navigation-Sensors
 
-No navigation data is available.
+No navigation sensor data is available.
 
 ### Mavic 2 Pro - Quadcopter
 
