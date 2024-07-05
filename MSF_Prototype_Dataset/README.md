@@ -104,7 +104,9 @@ Thesee fall into two categories:
 
 Some of the road litter objects placed during the data capture.
 
-Locations of these objects are provided in a [VMT file](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Litter/20230426_litter.vmt)  and a [GeoJSON file](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Litter/Litter.April26.geojson). ![Here](./Litter_Location_Map.png) is a map of the 14 placed litter objects.
+Locations of these objects are provided in a [VMT file](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Litter/20230426_litter.vmt)  and a [GeoJSON file](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Litter/Litter.April26.geojson). ![Here](./Litter_Location_Map.png) 
+
+Map of the 14 placed litter objects.
 
 
 ### Handheld Nokia-5
