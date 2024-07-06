@@ -247,14 +247,14 @@ The data are contained in a single Json file with one object containing observat
 | :---- | :---- | :---- | :---- |
 | [Quadcopter/Navigation-Sensors/Quadcopter.Navigation-Sensors.2023-04-26t134400.500.json](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Quadcopter/Navigation-Sensors/Quadcopter.Navigation-Sensors.2023-04-26t134400.500.json)  | JPG | 36.9 MB | 1 file |
 
-### Ordnance Survey Street Drone Front Mount
+### Ordnance Survey Street Drone Front-Facing Camera
 
 <div style="width:120%; margin: auto;">
 
 ![The OS Streetdrone](./Streetdrone.png)
 </div>
 
-The OS Streetdrone front cameras.
+The OS Streetdrone front camera location.
 
 #### Camera Images
 
@@ -297,7 +297,7 @@ Objects in the classes "person", "car", "truck", "bicycle", and "motorcycle" wer
 ![The OS Streetdrone](./Streetdrone_Rear.png)
 </div>
 
-The OS Streetdrone rear cameras.
+The OS Streetdrone rear camera location.
 
 
 #### Camera Images
