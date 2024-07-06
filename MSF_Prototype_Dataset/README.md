@@ -80,6 +80,8 @@ The Ordnance Survey has a number of surveyed control points as shown here ![cont
 
 ## Actors
 
+The *actors* are objects that are active in some sense. They can have moving parts, be entirely mobile, or be mobile and capable of determining their own motion and orientation. The key factor is that they are active in the context of a fixed background, the *stage*.
+
 #### Static Cameras
 
 The static cameras were not used during the collection of the MSF data subset.
@@ -107,7 +109,6 @@ Some of the road litter objects placed during the data capture.
 Locations of these objects are provided in a [VMT file](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Litter/20230426_litter.vmt)  and a [GeoJSON file](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Litter/Litter.April26.geojson). ![Here](./Litter_Location_Map.png) 
 
 Map of the 14 placed litter objects.
-
 
 ### Handheld Nokia-5
 
@@ -139,7 +140,7 @@ The video frame rate is 29.97 fps.
 
 #### Navigation-Sensors
 
-No navigation sensor data is available.
+No navigation sensor data was collected for the MSF data subset.
 
 ### Mavic 2 Pro - Quadcopter
 
@@ -251,7 +252,7 @@ The data are contained in a single Json file with one object containing observat
 
 <div style="width:120%; margin: auto;">
 
-![The OS Streetdrone](./Streetdrone.jpg)
+![The OS Streetdrone](./Streetdrone.png)
 </div>
 
 The OS Streetdrone front cameras.
