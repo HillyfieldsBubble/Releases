@@ -140,7 +140,7 @@ The video frame rate is 29.97 fps.
 
 #### Navigation-Sensors
 
-No navigation sensor data was collected for the MSF data subset.
+No navigation sensor data was collected from the Handheld camera for the MSF data subset.
 
 ### Mavic 2 Pro - Quadcopter
 
@@ -170,7 +170,6 @@ JPEG and PNG format images are available in Zip archives:
 | :---- | :---- | :---- | :---- |
 | [Quadcopter.Camera-Images.20230426T134400.500_MSF_JPG.zip](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Quadcopter/Camera-Images/Quadcopter.Camera-Images.2023-04-26t134400.500_MSF_JPG.zip)  | JPG | 170.2 MB | 203 images |
 | [Quadcopter.Camera-Images.20230426T134400.500_MSF_PNG.zip](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Quadcopter/Camera-Images/Quadcopter.Camera-Images.2023-04-26t134400.500_MSF_PNG.zip)  | JPG | 724.9 MB | 203 images |
-
 
 The image files also may be examined or downloaded as [individual PNG or Jpeg files](./quadcopter_image_list.md).
 
@@ -265,7 +264,7 @@ Two formats - JPEG and PNG - are available. A Zip archive of all of the JPEG for
 The frames are identified by UTC time and are on the same time base as the video. 
 Two formats - JPEG and PNG - are available. A Zip archive of all of the JPEG format images, a Zip archive of all of the PNG format images. and the individual images files are available.
 
-*The Zip archives:*
+##### Zip archives
 
 | Platform.Sensor.Item | Type | Size | Length |
 | :---- | :---- | :---- | :---- |
@@ -274,14 +273,21 @@ Two formats - JPEG and PNG - are available. A Zip archive of all of the JPEG for
 | [Streetdrone-Front.Camera-Images.20230426T140336.300Z_MSF_JPG.zip](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Streetdrone-Front/Camera-Images/Streetdrone-Front.Camera-Images.20230426T140336.504Z_MSF_JPG.zip)  | JPG | 170.2 MB | 203 images |
 | [Streetdrone-Front.Camera-Images.20230426T140336.300Z_MSF_PNG.zip](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Streetdrone-Front/Camera-Images/Streetdrone-Front.Camera-Images.20230426T140336.504Z_MSF_PNG.zip)  | JPG | 724.9 MB | 203 images |
 
+##### Individual images
+
 The image files also may be examined or downloaded as [individual PNG or Jpeg files](./streetdrone_front_image_list.md).
 
 #### Camera video
 
 The video frame rate is 4.86 fps.
+
+**++ToDo++**
+
 #### Camera Targets
 
 Objects in the classes "person", "car", "truck", "bicycle", and "motorcycle" were detected with a YOLO V8 CNN trained on the COCO-17 dataset. The class,onfidence, and centre-points are reported. 
+
+**++ToDo++**
 
 ### Ordnance Survey Street Drone Rear-Facing Camera
 
@@ -319,18 +325,24 @@ The image files also may be examined or downloaded as [individual PNG or Jpeg fi
 #### Camera video
 
 The video frame rate is 4.86 fps.
+
+**++ToDo++**
+
 #### Camera Targets
 
-Objects in the classes "person", "car", "truck", "bicycle", and "motorcycle" were detected with a YOLO V8 CNN trained on the COCO-17 dataset. The class,onfidence, and centre-points are reported. 
+Objects in the classes "person", "car", "truck", "bicycle", and "motorcycle" were detected with a YOLO V8 CNN trained on the COCO-17 dataset. The class, confidence, and centre-points are reported. 
+
+**++ToDo++**
 
 #### LiDAR 
+
+**++ToDo++**
 
 #### Pointclouds
 
 Streetdrone [pointcloud data](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/StreetDrone-Top/Pointclouds/Streetdrone_Pointcloud.mp4) derived from the onboard LiDAR is available as a [.laz file](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/StreetDrone-Top/Pointclouds/Streetdrone_Pointcloud.laz) covering the area of the rendezvous.
 
 A [glTF model](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/StreetDrone-Top/Pointclouds//Streetdrone_model.mp4) derived from the pointcloud is available as a [.glb file](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/StreetDrone-Top/Pointclouds/Streetdrone_Model.glb)
-
 
 #### Navigation-Sensors
 
@@ -381,12 +393,12 @@ The data are contained in a single Json file with one object containing observat
 The frames are identified by UTC time and are on the same time base as the video. 
 Two formats - JPEG and PNG - are available. A Zip archive of all of the JPEG format images, a Zip archive of all of the PNG format images. and the individual images files are available.
 
-
 #### Camera images
+
 The images are a  subset of the capture, one frame every two seconds. The frames are identified by UTC time and are on the same time base as the video. 
 Two formats - JPEG and PNG - are available. A Zip archive of all of the JPEG format images as well as a Zip archive of all of the PNG format images are available.
 
-*The Zip archives:*
+##### The Zip archives
 
 | Platform.Sensor.Item | Type | Size | Length |
 | :---- | :---- | :---- | :---- |
@@ -415,7 +427,7 @@ Objects in the classes "person", "car", "truck", "bicycle", and "motorcycle" wer
 The images are a  subset of the capture, one frame every two seconds. The frames are identified by UTC time and are on the same time base as the video. 
 Two formats - JPEG and PNG - are available. A Zip archive of all of the JPEG format images, a Zip archive of all of the PNG format images. and the individual images files are available.
 
-*The Zip archives:*
+##### Zip archives
 
 | Platform.Sensor.Item | Type | Size | Length |
 | :---- | :---- | :---- | :---- |
@@ -432,6 +444,6 @@ The video frame rate is 29.97 fps.
 
 Objects in the classes "person", "car", "truck", "bicycle", and "motorcycle" were detected with a YOLO V8 CNN trained on the COCO-17 dataset. The class, confidence, and pixel centre-points of each detection are reported. 
 
-#### Camera Sensors
+#### Navigation Sensors
 
 
