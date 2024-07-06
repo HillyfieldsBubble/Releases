@@ -1,8 +1,9 @@
 # Metaverse Standards Forum Support Data
-This is a subset of the data capture, selected to support prototype development in the Metaverse Standards Forum (MSF) Real/Virtual Integration Working Group. 
+This folder contains a subset of the Hillyfields data capture carried out in OGC Testbed-19. The content was selected to support prototype development in the Metaverse Standards Forum (MSF) Real/Virtual Integration Working Group. 
+The MSF "Ride-Hailing" use case and a sub-element "visual positioning" are the focus.
 The data covers four successful rendezvous between the Ordnance Survey instrumented road vehicle (the "Streetdrone" or the "car") and two people ("rider-3" and "rider 4") wearing chest-mounted 
 GoPro 11 cameras.
-These two people took the role of potential riders.
+These two people took the role of riders.
 
 ![StreetDrone and team](./Streetdrone_Team.jpg)
 
@@ -17,9 +18,21 @@ In other data captures during the two days, two additional plaforms - static cam
 ![StreetDrone vehicle with road litter](./Streetdrone_Team.JPG)
 Hillyfields Team: Jeremy, James, Steve, and Rob
 
-## The MSF data
+## MSF Data Details
 
 The data capture covered both the static environment (the "stage") as well as the moving entities (the "actors"). 
+
+### Stage and Actors Model
+
+**++ToDo++** stage and actor background
+
+### The Model
+
+The _stage_ and _actors_ paradigm is XXXXX. The S&A model supports YYYYYY.
+
+**++ToDo++**
+
+### Application to the MSF Use Case
 
 The actors included the OS Street Drone (1), flying drone (1), instrumented people (2) and non-participant bicyclists, walkers, runners, cars, and trucks. The drones and instrumented people have audio and 10-30 Hz video streams with per-frame IMU and other metadata.
 
@@ -41,7 +54,7 @@ Vertical photo surveys were made in the morning before and in the afternoon afte
 Pointclouds were computed photogrammetrically from the survey photos for the morning and afternoon surveys as shown in a vertical view here: 
 ![morning pointcloud ](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Pointclouds/Morning/Morning_Point_Cloud.jpg)
 
-The full pointcloud is in 
+##### Full pointcloud 
 
 | Platform.Sensor.Item | Type | Size | Length |
 | :---- | :---- | :---- | :---- |
@@ -58,9 +71,8 @@ The afternoon pointcloud:
 | :---- | :---- | :---- | :---- |
 | [Stage.Pointclouds.Afternoon/Afternoon_Point_Cloud.laz](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Pointclouds/Afternoon/Afternoon_Point_Cloud.laz)  | laz | 1.06 GB | 1 file |
 
-Here is a that gives a better idea of the coverage and structure of the Afternoon pointcloud:
+Here is a that shows the coverage and structure of the Afternoon pointcloud:
 [afternoon pointcloud ](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Pointclouds/Afternoon/Afternoon_Survey_Pointcloud.mp4)
-
 
 ### 3D Models
 
@@ -72,7 +84,7 @@ The Ordnance Survey has a number of surveyed control points as shown here ![cont
 
 ### Survey Control points
 
-The Ordnance Survey has a number of surveyed control points as shown here ![control points](./Hillyfields_Control.png). The positions are available in 
+The Ordnance Survey provided a number of surveyed control points as shown here ![control points](./Hillyfields_Control.png). The positions are available in 
 
 | Platform.Sensor.Item | Type | Size | Length |
 | :---- | :---- | :---- | :---- |
@@ -82,7 +94,7 @@ The Ordnance Survey has a number of surveyed control points as shown here ![cont
 
 The *actors* are objects that are active in some sense. They can have moving parts, be entirely mobile, or be mobile and capable of determining their own motion and orientation. The key factor is that they are active in the context of a fixed background, the *stage*.
 
-#### Static Cameras
+### Static Cameras
 
 The static cameras were not used during the collection of the MSF data subset.
 
@@ -281,13 +293,13 @@ The image files also may be examined or downloaded as [individual PNG or Jpeg fi
 
 The video frame rate is 4.86 fps.
 
-**++ToDo++**
+**++ToDo++** video links
 
 #### Camera Targets
 
 Objects in the classes "person", "car", "truck", "bicycle", and "motorcycle" were detected with a YOLO V8 CNN trained on the COCO-17 dataset. The class,onfidence, and centre-points are reported. 
 
-**++ToDo++**
+**++ToDo++** target files links
 
 ### Ordnance Survey Street Drone Rear-Facing Camera
 
@@ -298,7 +310,6 @@ Objects in the classes "person", "car", "truck", "bicycle", and "motorcycle" wer
 </div>
 
 The OS Streetdrone rear camera location.
-
 
 #### Camera Images
 
@@ -326,17 +337,17 @@ The image files also may be examined or downloaded as [individual PNG or Jpeg fi
 
 The video frame rate is 4.86 fps.
 
-**++ToDo++**
+**++ToDo++** links to videos
 
 #### Camera Targets
 
 Objects in the classes "person", "car", "truck", "bicycle", and "motorcycle" were detected with a YOLO V8 CNN trained on the COCO-17 dataset. The class, confidence, and centre-points are reported. 
 
-**++ToDo++**
+**++ToDo++** links to targets fles
 
 #### LiDAR 
 
-**++ToDo++**
+**++ToDo++** links to lidar
 
 #### Pointclouds
 
@@ -384,7 +395,6 @@ The data are contained in a single Json file with one object containing observat
 
 ### Person - "Rider 3" Chest Mount
 
-
 <div style="width:30%; margin: auto;">
 
 ![Rider-3](./Rider-3.png)
@@ -409,11 +419,17 @@ The individual image files also may be examined or downloaded as [individual PNG
 
 #### Camera Video
 
+**++ToDo++** links to videos
+
 #### Camera Targets
 
 Objects in the classes "person", "car", "truck", "bicycle", and "motorcycle" were detected with a YOLO V8 CNN trained on the COCO-17 dataset. The class, confidence, and pixel centre-points are reported. 
 
-#### Camera Sensors
+**++ToDo++** links to targets
+
+#### Navigation Sensors
+
+**++ToDo++** links to sensor files
 
 ### Person - "Rider 4" Chest Mount
 
@@ -422,8 +438,8 @@ Objects in the classes "person", "car", "truck", "bicycle", and "motorcycle" wer
 ![Rider-3](./Rider-4.png)
 </div>
 
+#### Camera Images
 
-#### Camera images
 The images are a  subset of the capture, one frame every two seconds. The frames are identified by UTC time and are on the same time base as the video. 
 Two formats - JPEG and PNG - are available. A Zip archive of all of the JPEG format images, a Zip archive of all of the PNG format images. and the individual images files are available.
 
@@ -440,10 +456,17 @@ The individual image files also may be examined or downloaded as [individual PNG
 
 The video frame rate is 29.97 fps.
 
+**++ToDo++** links to videos
+
 #### Camera Targets
 
 Objects in the classes "person", "car", "truck", "bicycle", and "motorcycle" were detected with a YOLO V8 CNN trained on the COCO-17 dataset. The class, confidence, and pixel centre-points of each detection are reported. 
 
+**++ToDo++** links to target files
+
 #### Navigation Sensors
+
+**++ToDo++** links to navigation sensor files
+
 
 
