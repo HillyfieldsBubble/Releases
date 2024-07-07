@@ -113,13 +113,10 @@ Here is a that shows the coverage and structure of the Afternoon pointcloud:
 
 ### 3D Models
 
-The Ordnance Survey provided a number of surveyed control points as shown here 
-
-
 <div align="center">
 <img  style=width:800;align:center src="./Hillyfields_Control.png">
 <p align="center"><b>
-Control Points
+ToDo: 3D Models
 </b></p>
 </div>
 
@@ -131,7 +128,16 @@ The control point positions are available in
 
 ### Survey Control points
 
-The Ordnance Survey provided a number of surveyed control points as shown here ![control points](./Hillyfields_Control.png). The positions are available in 
+The Ordnance Survey provided a number of surveyed control points as shown here: 
+
+<div align="center">
+<img  style=width:800;align:center src="./Hillyfields_Control.png">
+<p align="center"><b>
+Survey Control Points
+</b></p>
+</div>
+
+The positions are available in 
 
 | Platform.Sensor.Item | Type | Size | Length |
 | :---- | :---- | :---- | :---- |
@@ -161,21 +167,32 @@ Thesee fall into two categories:
     * Traffic cones
     * Lights for traffic cones
 
-![Road sign A-frame, plastic bottle & traffic cone with light](./FrameNoSign.jpg)
 
-Some of the road litter objects placed during the data capture.
+<div align="center">
+<img  style=width:200;align:center src="./FrameNoSign.jpg">
+<p align="center"><b>
+Road Litter Examples
+</b></p>
+</div>
 
-Locations of these objects are provided in a [VMT file](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Litter/20230426_litter.vmt)  and a [GeoJSON file](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Litter/Litter.April26.geojson). ![Here](./Litter_Location_Map.png) 
+Locations of these objects are provided in a [VMT file](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Litter/20230426_litter.vmt)  and a [GeoJSON file](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Litter/Litter.April26.geojson).
 
-Map of the 14 placed litter objects.
+<div align="center">
+<img  style=width:400;align:center src="./Litter_Location_Map.png">
+<p align="center"><b>
+Locations of the 14 Placed Litter Objects
+</b></p>
+</div>
 
 ### Handheld Nokia-5
 
 The Nokia 5  is an Android smartphone equipped with a 13 MP 8-bit RGB pixel camera.
 
-<div style="width:50%; margin: auto;">
-
-![Nokia 5](./Nokia_5.png)
+<div align="center">
+<img  style=width:200;align:center src="./Nokia_5.png">
+<p align="center"><b>
+Nokia 5
+</b></p>
 </div>
 
 #### Camera-Images
