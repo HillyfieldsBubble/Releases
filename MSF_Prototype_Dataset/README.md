@@ -5,18 +5,20 @@ The data covers four successful rendezvous between the Ordnance Survey instrumen
 GoPro 11 cameras.
 These two people took the role of riders.
 
-![StreetDrone and team](./Streetdrone_Team.jpg)
+<div align="center">
+<img  style=height:200;align:center src="./Streetdrone_Team.jpg">
+<p align="center"><b>
+Team: Jeremy, James, Steve, and Rob
+</b></p>
+</div>
 
-The rendezvous were observed by the quadcopter and a person holding a smartphone. The quadcopter had extensivie navigation ond camera positioning sensor data.
+The rendezvous were also observed by the quadcopter and a person holding a smartphone. The quadcopter had extensivie navigation ond camera positioning sensor data.
 
 The four rendezvous were captured on 26 April, 2023. Participants were from the Ordnance Survey UK, Away Team Software, and OpenSitePlan. The car, the riders, a person with a Nokia 5 smartphone, and a Mavic Pro 2 quadcopter flying about 30 m above the surface 
 made video, imagery, position, 
 orientation, and image sensor sensor observations throughout the four rendezvous. 
 
 In other data captures during the two days, two additional plaforms - static cameras at a level of about 1.8 m above the surface and aimed along the Ordnance Survey car park perimeter road - were in place. These cameras were not active during the time of this MSF subset and are not included in the listings that follow.
-
-![StreetDrone vehicle with road litter](./Streetdrone_Team.JPG)
-Hillyfields Team: Jeremy, James, Steve, and Rob
 
 ## MSF Data Details
 
