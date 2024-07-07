@@ -6,7 +6,7 @@ GoPro 11 cameras.
 These two people took the role of riders.
 
 <div align="center">
-<img  style=height:200;align:center src="./Streetdrone_Team.jpg">
+<img  style=width:800;align:center src="./Streetdrone_Team.jpg">
 <p align="center"><b>
 Team: Jeremy, James, Steve, and Rob
 </b></p>
@@ -47,14 +47,40 @@ We captured two independent reference RGB point clouds (the "reference point clo
 
 ### Orthoimages
 
-Vertical photo surveys were made in the morning before and in the afternoon after the data capture on April 25th. Using the control points, these were merged into orthophoto mosaics. ![morning survey](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Orthomosaics/Morning/Morning_Orthomosaic.jpg) also  as Tiff[ image](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Orthomosaics/Morning/Morning_Orthomosaic.tif) + [world file ](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Orthomosaics/Morning/Morning_Orthomosaic.tfw), and
+Vertical photo surveys were made in the morning before and in the afternoon after the data capture on April 25th. Using the control points, these were merged into orthophoto mosaics. 
 
-![afternoon survey](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Orthomosaics/Afternoon/Afternoon_Orthomosaic.jpg) also as Tiff [image](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Orthomosaics/Afternoon/Afternoon_Orthomosaic.tif) + [world file](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Orthomosaics/Afternoon/Afternoon_Orthomosaic.tfw)
+<div align="center">
+<img  style=width:800;align:center src="https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Orthomosaics/Morning/Morning_Orthomosaic.jpg">
+<p align="center"><b>
+Morning Orthomosaic with Photo Centres
+</b></p>
+</div>
+
+
+also  as Tiff[ image](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Orthomosaics/Morning/Morning_Orthomosaic.tif) + [world file ](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Orthomosaics/Morning/Morning_Orthomosaic.tfw), and
+
+<div align="center">
+<img  style=width:800;align:center src="https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Orthomosaics/Afternoon/Afternoon_Orthomosaic.jpg">
+<p align="center"><b>
+Afternoon Orthomosaic with Photo Centres
+</b></p>
+</div>
+
+also as Tiff [image](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Orthomosaics/Afternoon/Afternoon_Orthomosaic.tif) + [world file](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Orthomosaics/Afternoon/Afternoon_Orthomosaic.tfw)
+
+The primary reason to make morning and afternoon surveys was to sample the different lighting conditions. Sensitivity of image and feature matching performance to the direction of direct lighting is an interesting research topic.
 
 ### Pointclouds
 
 Pointclouds were computed photogrammetrically from the survey photos for the morning and afternoon surveys as shown in a vertical view here: 
-![morning pointcloud ](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Pointclouds/Morning/Morning_Point_Cloud.jpg)
+
+<div align="center">
+<img  style=width:800;align:center src="https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Pointclouds/Morning/Morning_Point_Cloud.jpg">
+<p align="center"><b>
+Morning Point Cloud Vertical View
+</b></p>
+</div>
+
 
 ##### Full pointcloud 
 
@@ -67,7 +93,16 @@ Here is a short video that gives a better idea of the coverage and structure of 
 [morning pointcloud ](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Pointclouds/Morning/Morning_Survey_Pointcloud.mp4)
 
 The afternoon pointcloud:
-![afternoon pointcloud ](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Pointclouds/Afternoon/Afternoon_Point_Cloud.jpg). The positions are available in 
+
+
+<div align="center">
+<img  style=width:800;align:center src="https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Pointclouds/Afternoon/Afternoon_Point_Cloud.jpg">
+<p align="center"><b>
+Afternoon Point Cloud Vertical View
+</b></p>
+</div>
+
+The positions are available in 
 
 | Platform.Sensor.Item | Type | Size | Length |
 | :---- | :---- | :---- | :---- |
@@ -78,7 +113,17 @@ Here is a that shows the coverage and structure of the Afternoon pointcloud:
 
 ### 3D Models
 
-The Ordnance Survey has a number of surveyed control points as shown here ![control points](./Hillyfields_Control.png). The positions are available in 
+The Ordnance Survey provided a number of surveyed control points as shown here 
+
+
+<div align="center">
+<img  style=width:800;align:center src="./Hillyfields_Control.png">
+<p align="center"><b>
+Control Points
+</b></p>
+</div>
+
+The control point positions are available in 
 
 | Platform.Sensor.Item | Type | Size | Length |
 | :---- | :---- | :---- | :---- |
