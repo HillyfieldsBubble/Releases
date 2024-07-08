@@ -416,13 +416,17 @@ The video frame rate is 4.86 fps.
 
 #### Camera Targets
 
-Objects in the classes "person", "car", "truck", "bicycle", and "motorcycle" were detected with a YOLO V8 CNN trained on the COCO-17 dataset. The class, confidence, and centre-points are reported. 
+Objects in the classes "person", "car", "truck", "bicycle", and "motorcycle" were detected with a YOLO V8 CNN trained on the COCO-17 dataset. The class, confidence, and pixel centre-points are reported. 
 
-**++ToDo++** links to targets fles
+
+| Platform.Sensor.Item | Type | Size | Length |
+| :---- | :---- | :---- | :---- |
+| [Streetdrone-Rear.Camera-Targets..20230426T140336.300Z.json](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/StreetDrone-Rear/Camera-Targets/Streetdrone-Rear.Camera-Targets.20230426T140336.300Z.json)  | JSON | 2.13 MB | 1 file |
+| [Streetdrone-Rear.Camera-Targets.20230426T133736.530Z.json](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/StreetDrone-Rear/Camera-Targets/Streetdrone-Rear.Camera-Targets.20230426T133736.530Z.json)  | JSON | 2.13 MB | 1 file |
 
 #### LiDAR 
 
-**++ToDo++** links to lidar
+**++ToDo++** links to lidar returns
 
 #### Pointclouds
 
@@ -503,7 +507,12 @@ The individual image files also may be examined or downloaded as [individual PNG
 
 Objects in the classes "person", "car", "truck", "bicycle", and "motorcycle" were detected with a YOLO V8 CNN trained on the COCO-17 dataset. The class, confidence, and pixel centre-points are reported. 
 
-**++ToDo++** links to targets
+
+| Platform.Sensor.Item | Type | Size | Length |
+| :---- | :---- | :---- | :---- |
+| [Rider-3-Chest-Mount.Camera-Targets.20230426T133730.900Z.json](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Rider-3-Chest-Mount/Camera-Targets/Rider-3-Chest-Mount.Camera-Targets.20230426T133730.900Z.json)  | JSON | 8.88 MB | 1 file |
+
+
 
 #### Navigation Sensors
 
@@ -542,7 +551,9 @@ The video frame rate is 29.97 fps.
 
 Objects in the classes "person", "car", "truck", "bicycle", and "motorcycle" were detected with a YOLO V8 CNN trained on the COCO-17 dataset. The class, confidence, and pixel centre-points of each detection are reported. 
 
-**++ToDo++** links to target files
+| Platform.Sensor.Item | Type | Size | Length |
+| :---- | :---- | :---- | :---- |
+| [Rider-4-Chest-Mount.Camera-Targets.20230426_MSF_JPG.zip](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Rider-4-Chest-Mount/Camera-Targets/Rider-4-Chest-Mount.Camera-Targets.20230426T133430.101Z.json)  | JSON | 41.4 MB | 1 file |
 
 #### Navigation Sensors
 
