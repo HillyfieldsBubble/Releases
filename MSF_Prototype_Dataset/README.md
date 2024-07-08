@@ -503,6 +503,12 @@ The individual image files also may be examined or downloaded as [individual PNG
 
 **++ToDo++** links to videos
 
+| Platform.Sensor.Item | Type | Size | Length |
+| :---- | :---- | :---- | :---- |
+| [Rider-3-Chest-Mount.Camera-Video.20230426T133430.101Z.mp4](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Rider-3-Chest-Mount/Rider-3-Chest-Mount.Camera-Video.20230426T133430.101Z.mp4) | mp4 | 2.33 GB | 1 video |
+
+Rider-3-Chest-Mount.Camera-Video.20230426T133430.101Z.mp4
+
 #### Camera Targets
 
 Objects in the classes "person", "car", "truck", "bicycle", and "motorcycle" were detected with a YOLO V8 CNN trained on the COCO-17 dataset. The class, confidence, and pixel centre-points are reported. 
@@ -511,8 +517,6 @@ Objects in the classes "person", "car", "truck", "bicycle", and "motorcycle" wer
 | Platform.Sensor.Item | Type | Size | Length |
 | :---- | :---- | :---- | :---- |
 | [Rider-3-Chest-Mount.Camera-Targets.20230426T133730.900Z.json](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Rider-3-Chest-Mount/Camera-Targets/Rider-3-Chest-Mount.Camera-Targets.20230426T133730.900Z.json)  | JSON | 8.88 MB | 1 file |
-
-
 
 #### Navigation Sensors
 
