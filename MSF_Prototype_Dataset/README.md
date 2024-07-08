@@ -518,7 +518,15 @@ Objects in the classes "person", "car", "truck", "bicycle", and "motorcycle" wer
 
 #### Navigation Sensors
 
-**++ToDo++** links to sensor files
+| Platform.Sensor.Item | Type | Size | Length |
+| :---- | :---- | :---- | :---- |
+| [Rider-3-Chest-Mount.Navigation-Sensors.Accelerometer.20230426T133730.900Z.json](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Rider-3-Chest-Mount/Navigation-Sensors/Rider-3-Chest-Mount.Navigation-Sensors.Accelerometer.20230426T133730.900Z.json)  | JSON | 14.3 MB | 1 file |
+| [Rider-3-Chest-Mount.Navigation-Sensors.Camera_Orientation.20230426T133730.900Z.json](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Rider-3-Chest-Mount/Navigation-Sensors/Rider-3-Chest-Mount.Navigation-Sensors.Camera_Orientation.20230426T133730.900Z.json)  | JSON | 2.5 MB | 1 file |
+| [Rider-3-Chest-Mount.Navigation-Sensors.GPS.20230426T133730.900Z.geojson](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Rider-3-Chest-Mount/Navigation-Sensors/Rider-3-Chest-Mount.Navigation-Sensors.GPS.20230426T133730.900Z.geojson)  | JSON | 275 KB | 1 file |
+| [Rider-3-Chest-Mount.Navigation-Sensors.GPS.20230426T133730.900Z.json](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Rider-3-Chest-Mount/Navigation-Sensors/Rider-3-Chest-Mount.Navigation-Sensors.GPS.20230426T133730.900Z.json)  | JSON | 566 KB | 1 file |
+| [Rider-3-Chest-Mount.Navigation-Sensors.Gravity.20230426T133730.900Z.json](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Rider-3-Chest-Mount/Navigation-Sensors/Rider-3-Chest-Mount.Navigation-Sensors.Gravity.20230426T133730.900Z.json)  | JSON | 219 MB | 1 file |
+| [Rider-3-Chest-Mount.Navigation-Sensors.Gyro.20230426T133730.900Z.json](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Rider-3-Chest-Mount/Navigation-Sensors/Rider-3-Chest-Mount.Navigation-Sensors.Gyro.20230426T133730.900Z.json)  | JSON | 14.6 MB | 1 file |
+| [Rider-3-Chest-Mount.Navigation-Sensors.Image_Orientation.20230426T133730.900Z.json](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Rider-3-Chest-Mount/Navigation-Sensors/Rider-3-Chest-Mount.Navigation-Sensors.Image_Orientation.20230426T133730.900Z.json)  | JSON | 2.50 MB | 1 file |
 
 ### Person - "Rider 4" Chest Mount
 
@@ -561,7 +569,17 @@ Objects in the classes "person", "car", "truck", "bicycle", and "motorcycle" wer
 
 #### Navigation Sensors
 
-**++ToDo++** links to navigation sensor files
+| Platform.Sensor.Item | Type | Size | Length |
+| :---- | :---- | :---- | :---- |
+| [Rider-4-Chest-Mount.Navigation-Sensors.Accelerometer.20230426T133730.900Z.json](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Rider-4-Chest-Mount/Navigation-Sensors/Rider-4-Chest-Mount.Navigation-Sensors.Accelerometer.20230426T133730.900Z.json)  | JSON | 14.3 MB | 1 file |
+| [Rider-4-Chest-Mount.Navigation-Sensors.Camera_Orientation.20230426T133730.900Z.json](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Rider-4-Chest-Mount/Navigation-Sensors/Rider-4-Chest-Mount.Navigation-Sensors.Camera_Orientation.20230426T133730.900Z.json)  | JSON | 2.5 MB | 1 file |
+| [Rider-4-Chest-Mount.Navigation-Sensors.GPS.20230426T133730.900Z.geojson](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Rider-4-Chest-Mount/Navigation-Sensors/Rider-4-Chest-Mount.Navigation-Sensors.GPS.20230426T133730.900Z.geojson)  | JSON | 275 KB | 1 file |
+| [Rider-4-Chest-Mount.Navigation-Sensors.GPS.20230426T133730.900Z.json](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Rider-4-Chest-Mount/Navigation-Sensors/Rider-4-Chest-Mount.Navigation-Sensors.GPS.20230426T133730.900Z.json)  | JSON | 566 KB | 1 file |
+| [Rider-4-Chest-Mount.Navigation-Sensors.Gravity.20230426T133730.900Z.json](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Rider-4-Chest-Mount/Navigation-Sensors/Rider-4-Chest-Mount.Navigation-Sensors.Gravity.20230426T133730.900Z.json)  | JSON | 219 MB | 1 file |
+| [Rider-4-Chest-Mount.Navigation-Sensors.Gyro.20230426T133730.900Z.json](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Rider-4-Chest-Mount/Navigation-Sensors/Rider-4-Chest-Mount.Navigation-Sensors.Gyro.20230426T133730.900Z.json)  | JSON | 14.6 MB | 1 file |
+| [Rider-4-Chest-Mount.Navigation-Sensors.Image_Orientation.20230426T133730.900Z.json](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Rider-4-Chest-Mount/Navigation-Sensors/Rider-4-Chest-Mount.Navigation-Sensors.Image_Orientation.20230426T133730.900Z.json)  | JSON | 2.50 MB | 1 file |
+
+
 
 
 
