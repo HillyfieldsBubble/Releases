@@ -222,17 +222,23 @@ No navigation sensor data was collected from the Handheld camera for the MSF dat
 
 The DJI Mavic 2 Pro 
 
-<div style="width:50%; margin: auto;">
-
-![DJI Mavic 2 Pro](./DJI_Mavic_2_Pro.png)
+<div align="center">
+<img  style=width:300;align:center src="./DJI_Mavic_2_Pro.png">
+<p align="center"><b>
+DJI Mavic 2 Pro
+</b></p>
 </div>
+
 
  is a small quadcopter equipped with navigation sensors and a 5472 x 3168 8-bit RGB pixel camera.
 
-<div style="width:75%; margin: auto;">
-
-![Quadcopter MSF Subset map.](./quadcopter_map.png)
+<div align="center">
+<img  style=width:300;align:center src="./quadcopter_map.png">
+<p align="center"><b>
+Quadcopter MSF Subset Flight Path
+</b></p>
 </div>
+
 
 #### Camera Images
 
@@ -323,12 +329,15 @@ The data are contained in a single Json file with one object containing observat
 | :---- | :---- | :---- | :---- |
 | [Quadcopter/Navigation-Sensors/Quadcopter.Navigation-Sensors.2023-04-26t134400.500.json](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Quadcopter/Navigation-Sensors/Quadcopter.Navigation-Sensors.2023-04-26t134400.500.json)  | JPG | 36.9 MB | 1 file |
 
-### Ordnance Survey Street Drone Front-Facing Camera
+### Ordnance Survey Streetdrone Front-Facing Camera
 
-<div style="width:120%; margin: auto;">
-
-![The OS Streetdrone](./Streetdrone.png)
+<div align="center">
+<img  style=width:300;align:center src="./Streetdrone.png">
+<p align="center"><b>
+OS Streetdrone Front Camera Location
+</b></p>
 </div>
+
 
 The OS Streetdrone front camera location.
 
@@ -367,17 +376,19 @@ Objects in the classes "person", "car", "truck", "bicycle", and "motorcycle" wer
 
 ### Ordnance Survey Street Drone Rear-Facing Camera
 
-
-<div style="width:60%; margin: auto;">
-
-![The OS Streetdrone](./Streetdrone_Rear.png)
+<div align="center">
+<img  style=width:300;align:center src="./Streetdrone_Rear.png">
+<p align="center"><b>
+OS Streetdrone Rear Camera Location
+</b></p>
 </div>
+
 
 The OS Streetdrone rear camera location.
 
 #### Camera Images
 
-The images are a  subset of the capture, one frame every two seconds. The frames are identified by UTC time and are on the same time base as the video. 
+The images are a subset of the capture, one frame every two seconds. The frames are identified by UTC time and are on the same time base as the video. 
 Two formats - JPEG and PNG - are available. A Zip archive of all of the JPEG format images as well as a Zip archive of all of the PNG format images are available.
 
 #### Camera Images
@@ -459,10 +470,13 @@ The data are contained in a single Json file with one object containing observat
 
 ### Person - "Rider 3" Chest Mount
 
-<div style="width:30%; margin: auto;">
-
-![Rider-3](./Rider-3.png)
+<div align="center">
+<img  style=width:200;align:center src="./Rider-3.png">
+<p align="center"><b>
+Rider 3
+</b></p>
 </div>
+
 
 The frames are identified by UTC time and are on the same time base as the video. 
 Two formats - JPEG and PNG - are available. A Zip archive of all of the JPEG format images, a Zip archive of all of the PNG format images. and the individual images files are available.
@@ -497,9 +511,11 @@ Objects in the classes "person", "car", "truck", "bicycle", and "motorcycle" wer
 
 ### Person - "Rider 4" Chest Mount
 
-<div style="width:30%; margin: auto;">
-
-![Rider-3](./Rider-4.png)
+<div align="center">
+<img  style=width:200;align:center src="./Rider-4.png">
+<p align="center"><b>
+Rider 4
+</b></p>
 </div>
 
 #### Camera Images
