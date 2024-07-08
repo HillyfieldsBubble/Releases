@@ -24,16 +24,6 @@ In other data captures during the two days, two additional plaforms - static cam
 
 The data capture covered both the static environment (the "stage") as well as the moving entities (the "actors"). 
 
-### Stage and Actors Model
-
-**++ToDo++** stage and actor background
-
-### The Model
-
-The _stage_ and _actors_ paradigm is XXXXX. The S&A model supports YYYYYY.
-
-**++ToDo++**
-
 ### Application to the MSF Use Case
 
 The actors included the OS Street Drone (1), flying drone (1), instrumented people (2) and non-participant bicyclists, walkers, runners, cars, and trucks. The drones and instrumented people have audio and 10-30 Hz video streams with per-frame IMU and other metadata.
@@ -94,7 +84,6 @@ Here is a short video that gives a better idea of the coverage and structure of 
 
 The afternoon pointcloud:
 
-
 <div align="center">
 <img  style=width:800;align:center src="https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Pointclouds/Afternoon/Afternoon_Point_Cloud.jpg">
 <p align="center"><b>
@@ -113,12 +102,12 @@ Here is a that shows the coverage and structure of the Afternoon pointcloud:
 
 ### 3D Models
 
-<div align="center">
-<img  style=width:800;align:center src="./Hillyfields_Control.png">
-<p align="center"><b>
-ToDo: 3D Models
-</b></p>
-</div>
+3D meshes were constructed from the morning and afternoon pointclouds. These can be previewed as [morning](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Models/Hillyfields_Morning_Model_Preview.mp4) and [afternoon](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Models/Hillyfields_Afternoon_Model_Preview.mp4) mp4 files. The full models packaged as Khronos glTF are available at
+
+| Platform.Sensor.Item | Type | Size | Length |
+| :---- | :---- | :---- | :---- |
+| [Stage.Models/Hillyfields_Morning_Model.glb](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Models/Hillyfields_Morning_Model.glb)  | glTF(glb) | 254.8 MB| 1 file |
+| [Stage.Models/Hillyfields_Afternoon_Model.glb](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Models/Hillyfields_Afternoon_Model.glb)  | glTF(glb) | 253.0 MB| 1 file |
 
 The control point positions are available in 
 
@@ -214,6 +203,8 @@ The video frame rate is 29.97 fps.
 | :---- | :---- | :---- | :---- |
 | [Handheld-Nokia-5/Camera-Video/Handheld-Nokia-5.Camera-Video.20230426T134102.000.mp4](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Handheld-Nokia-5/Camera-Video/Handheld-Nokia-5.Camera-Video.20230426T134102.000.mp4)  | JPG | 36.9 MB | 1 file |
 
+#### Camera-Targets
+
 #### Navigation-Sensors
 
 No navigation sensor data was collected from the Handheld camera for the MSF data subset.
@@ -262,6 +253,8 @@ The video frame rate is 29.97 fps.
 | Platform.Sensor.Item | Type | Size | Length |
 | :---- | :---- | :---- | :---- |
 | [Handheld-Nokia-5/Camera-Video/Handheld-Nokia-5.Camera-Video.20230426T134102.000.mp4](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Handheld-Nokia-5/Camera-Video/Handheld-Nokia-5.Camera-Video.20230426T134102.000.mp4)  | JPG | 36.9 MB | 1 file |
+
+#### Camera-Targets
 
 #### Navigation-Sensors
 
@@ -366,7 +359,11 @@ The image files also may be examined or downloaded as [individual PNG or Jpeg fi
 
 The video frame rate is 4.86 fps.
 
-**++ToDo++** video links
+| Platform.Sensor.Item | Type | Size | Length |
+| :---- | :---- | :---- | :---- |
+| [Streetdrone-Front.Camera-Video.20230426T133736.530Z.mp4](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Streetdrone-Front/Camera-Video/Streetdrone-Front.Camera-Video.20230426T133736.530Z.mp4)  | MP4 | 242.2 MB | 1 video |
+| [Streetdrone-Front.Camera-Video.20230426T140336.300Z.mp4](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Streetdrone-Front/Camera-Video/Streetdrone-Front.Camera-Video.20230426T140336.300Z.mp4)  | MP4 | 230.0 MB | 1 video  |
+
 
 #### Camera Targets
 
@@ -412,7 +409,10 @@ The image files also may be examined or downloaded as [individual PNG or Jpeg fi
 
 The video frame rate is 4.86 fps.
 
-**++ToDo++** links to videos
+| Platform.Sensor.Item | Type | Size | Length |
+| :---- | :---- | :---- | :---- |
+| [Streetdrone-Rear.Camera-Video.20230426T133736.530Z.mp4](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Streetdrone-Rear/Camera-Video/Streetdrone-Rear.Camera-Video.20230426T133736.530Z.mp4)  | MP4 | 242.2 MB | 1 video |
+| [Streetdrone-Rear.Camera-Video.20230426T140336.300Z.mp4](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Streetdrone-Rear/Camera-Video/Streetdrone-Rear.Camera-Video.20230426T140336.300Z.mp4)  | MP4 | 230.0 MB | 1 video  |
 
 #### Camera Targets
 
