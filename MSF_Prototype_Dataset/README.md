@@ -501,11 +501,9 @@ The individual image files also may be examined or downloaded as [individual PNG
 
 #### Camera Video
 
-**++ToDo++** links to videos
-
 | Platform.Sensor.Item | Type | Size | Length |
 | :---- | :---- | :---- | :---- |
-| [Rider-3-Chest-Mount.Camera-Video.20230426T133430.101Z.mp4](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Rider-3-Chest-Mount/Rider-3-Chest-Mount.Camera-Video.20230426T133430.101Z.mp4) | mp4 | 2.33 GB | 1 video |
+| [Rider-3-Chest-Mount.Camera-Video.20230426T133430.101Z.mp4](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Rider-3-Chest-Mount/Camera-Video/Rider-3-Chest-Mount.Camera-Video.20230426T133430.101Z.mp4) | mp4 | 2.33 GB | 1 video |
 
 Rider-3-Chest-Mount.Camera-Video.20230426T133430.101Z.mp4
 
@@ -549,7 +547,9 @@ The individual image files also may be examined or downloaded as [individual PNG
 
 The video frame rate is 29.97 fps.
 
-**++ToDo++** links to videos
+| Platform.Sensor.Item | Type | Size | Length |
+| :---- | :---- | :---- | :---- |
+| [Rider-4-Chest-Mount.Camera-Video.20230426T133430.101Z.mp4](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Rider-4-Chest-Mount/Camera-Video/Rider-4-Chest-Mount.Camera-Video.20230426T133430.101Z.mp4) | mp4 | 2.33 GB | 1 video |
 
 #### Camera Targets
 
