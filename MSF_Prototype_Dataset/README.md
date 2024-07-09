@@ -511,7 +511,6 @@ Rider-3-Chest-Mount.Camera-Video.20230426T133430.101Z.mp4
 
 Objects in the classes "person", "car", "truck", "bicycle", and "motorcycle" were detected with a YOLO V8 CNN trained on the COCO-17 dataset. The class, confidence, and pixel centre-points are reported. 
 
-
 | Platform.Sensor.Item | Type | Size | Length |
 | :---- | :---- | :---- | :---- |
 | [Rider-3-Chest-Mount.Camera-Targets.20230426T133730.900Z.json](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Rider-3-Chest-Mount/Camera-Targets/Rider-3-Chest-Mount.Camera-Targets.20230426T133730.900Z.json)  | JSON | 8.88 MB | 1 file |
@@ -579,6 +578,11 @@ Objects in the classes "person", "car", "truck", "bicycle", and "motorcycle" wer
 | [Rider-4-Chest-Mount.Navigation-Sensors.Gyro.20230426T133730.900Z.json](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Rider-4-Chest-Mount/Navigation-Sensors/Rider-4-Chest-Mount.Navigation-Sensors.Gyro.20230426T133730.900Z.json)  | JSON | 14.6 MB | 1 file |
 | [Rider-4-Chest-Mount.Navigation-Sensors.Image_Orientation.20230426T133730.900Z.json](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Rider-4-Chest-Mount/Navigation-Sensors/Rider-4-Chest-Mount.Navigation-Sensors.Image_Orientation.20230426T133730.900Z.json)  | JSON | 2.50 MB | 1 file |
 
+
+## Time
+
+Although time values are recorded for the observations from each sensor mounted on each platform, the time values are independent. For precise calculations, time pairs for sensors that are close enough that the light travel time (30 cm per nanosecond) is insignificant for a particular use case.
+The Hillyfields Bubble is approximately 1.5 microseconds in diameter.
 
 
 
