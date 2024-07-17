@@ -6,7 +6,7 @@ GoPro 11 cameras.
 These two people took the role of riders.
 
 <div align="center">
-<img  style=width:800;align:center src="./Streetdrone_Team.jpg">
+<img  style=width:800;align:center src="./images/Streetdrone_Team.jpg">
 <p align="center"><b>
 Team: Jeremy, James, Steve, and Rob
 </b></p>
@@ -47,7 +47,7 @@ Morning Orthomosaic with Photo Centres
 </div>
 
 
-also  as Tiff[ image](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Orthomosaics/Morning/Morning_Orthomosaic.tif) + [world file ](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Orthomosaics/Morning/Morning_Orthomosaic.tfw), and
+also  as Tiff [image](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Orthomosaics/Morning/Morning_Orthomosaic.tif) + [world file ](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Orthomosaics/Morning/Morning_Orthomosaic.tfw), and
 
 <div align="center">
 <img  style=width:800;align:center src="https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Orthomosaics/Afternoon/Afternoon_Orthomosaic.jpg">
@@ -77,7 +77,6 @@ Morning Point Cloud Vertical View
 | Platform.Sensor.Item | Type | Size | Length |
 | :---- | :---- | :---- | :---- |
 | [Stage.Pointclouds.Morning.Morning_Point_Cloud.laz](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Pointclouds/Morning/Morning_Point_Cloud.laz)  | laz | 1.06 GB | 1 file |
-
 
 Here is a short video that gives a better idea of the coverage and structure of the morning pointcloud:
 [morning pointcloud ](https://content.hillyfieldsbubble.org/Data/Bubble/Stage/Pointclouds/Morning/Morning_Survey_Pointcloud.mp4)
@@ -120,7 +119,7 @@ The control point positions are available in
 The Ordnance Survey provided a number of surveyed control points as shown here: 
 
 <div align="center">
-<img  style=width:800;align:center src="./Hillyfields_Control.png">
+<img  style=width:800;align:center src="./images/Hillyfields_Control.png">
 <p align="center"><b>
 Survey Control Points
 </b></p>
@@ -158,7 +157,7 @@ Thesee fall into two categories:
 
 
 <div align="center">
-<img  style=width:200;align:center src="./FrameNoSign.jpg">
+<img  style=width:200;align:center src="./images/FrameNoSign.jpg">
 <p align="center"><b>
 Road Litter Examples
 </b></p>
@@ -167,7 +166,7 @@ Road Litter Examples
 Locations of these objects are provided in a [VMT file](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Litter/20230426_litter.vmt)  and a [GeoJSON file](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Litter/Litter.April26.geojson).
 
 <div align="center">
-<img  style=width:400;align:center src="./Litter_Location_Map.png">
+<img  style=width:400;align:center src="./images/Litter_Location_Map.png">
 <p align="center"><b>
 Locations of the 14 Placed Litter Objects
 </b></p>
@@ -178,7 +177,7 @@ Locations of the 14 Placed Litter Objects
 The Nokia 5  is an Android smartphone equipped with a 13 MP 8-bit RGB pixel camera.
 
 <div align="center">
-<img  style=width:200;align:center src="./Nokia_5.png">
+<img  style=width:200;align:center src="./images/Nokia_5.png">
 <p align="center"><b>
 Nokia 5
 </b></p>
@@ -190,10 +189,10 @@ Rider-4 held the Nokia 5 in addition to wearing the chect-mounted camera. No nav
 
 | Platform.Sensor.Item | Type | Size | Length |
 | :---- | :---- | :---- | :---- |
-| [Handheld-Nokia-5.Camera-Images.20230426T134102.000_MSF_JPG.zip](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Handheld-Nokia-5/Handheld-Nokia-5.Camera-Images.20230426T134102.000_MSF_JPG.zip)  | JPG | 9.57 MB | 28 images |
+| [Handheld-Nokia-5.Camera-Images.20230426T134102.000_MSF_JPG.zip](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Handheld-Nokia-5/Handheld-Images/Handheld-Nokia-5.Camera-Images.20230426T134102.000_MSF_JPG.zip)  | JPG | 9.57 MB | 28 images |
 | [Handheld-Nokia-5.Camera-Images.20230426T134102.000_MSF_PNG.zip](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Handheld-Nokia-5/Handheld-Nokia-5.Camera-Images.20230426T134102.000_MSF_PNG.zip)  | PNG | 44.05 MB | 28 images |
 
-The image files also may be examined or downloaded as [individual files](./handheld_image_list.md).
+The image files also may be examined or downloaded as [individual files](./links/handheld_image_list.md).
 
 #### Camera Video
 
@@ -214,7 +213,7 @@ No navigation sensor data was collected from the Handheld camera for the MSF dat
 The DJI Mavic 2 Pro 
 
 <div align="center">
-<img  style=width:300;align:center src="./DJI_Mavic_2_Pro.png">
+<img  style=width:300;align:center src="./images/DJI_Mavic_2_Pro.png">
 <p align="center"><b>
 DJI Mavic 2 Pro
 </b></p>
@@ -224,7 +223,7 @@ DJI Mavic 2 Pro
  is a small quadcopter equipped with navigation sensors and a 5472 x 3168 8-bit RGB pixel camera.
 
 <div align="center">
-<img  style=width:300;align:center src="./quadcopter_map.png">
+<img  style=width:300;align:center src="./images/quadcopter_map.png">
 <p align="center"><b>
 Quadcopter MSF Subset Flight Path
 </b></p>
@@ -244,7 +243,7 @@ JPEG and PNG format images are available in Zip archives:
 | [Quadcopter.Camera-Images.20230426T134400.500_MSF_JPG.zip](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Quadcopter/Camera-Images/Quadcopter.Camera-Images.2023-04-26t134400.500_MSF_JPG.zip)  | JPG | 170.2 MB | 203 images |
 | [Quadcopter.Camera-Images.20230426T134400.500_MSF_PNG.zip](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Quadcopter/Camera-Images/Quadcopter.Camera-Images.2023-04-26t134400.500_MSF_PNG.zip)  | JPG | 724.9 MB | 203 images |
 
-The image files also may be examined or downloaded as [individual PNG or Jpeg files](./quadcopter_image_list.md).
+The image files also may be examined or downloaded as [individual PNG or Jpeg files](./links/quadcopter_image_list.md).
 
 #### Camera-Video
 
@@ -252,9 +251,16 @@ The video frame rate is 29.97 fps.
 
 | Platform.Sensor.Item | Type | Size | Length |
 | :---- | :---- | :---- | :---- |
-| [Handheld-Nokia-5/Camera-Video/Handheld-Nokia-5.Camera-Video.20230426T134102.000.mp4](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Handheld-Nokia-5/Camera-Video/Handheld-Nokia-5.Camera-Video.20230426T134102.000.mp4)  | JPG | 36.9 MB | 1 file |
+| [Quadcopter/Camera-Images/Quadcopter.Camera-Video.20230426T134102.000.mp4](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Quadcopter/Camera-Images/Quadcopter.Camera-Video.20230426T134102.000.mp4)  | JPG | 36.9 MB | 1 file |
 
 #### Camera-Targets
+
+Objects in the classes "person", "car", "truck", "bicycle", and "motorcycle" were detected with a YOLO V8 CNN trained on the COCO-17 dataset. The class,onfidence, and centre-points are reported. 
+
+| Platform.Sensor.Item | Type | Size | Length |
+| :---- | :---- | :---- | :---- |
+| [Quadcopter/Navigation-Sensors/Quadcopter.Navigation-Sensors.20230426T140336.504Z.json](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/StreetDrone-Front/Camera-Targets/Streetdrone-Front.Camera-Targets.20230426T140336.504Z.json)  | JSON | 2.13 MB | 1 file |
+
 
 #### Navigation-Sensors
 
@@ -325,7 +331,7 @@ The data are contained in a single Json file with one object containing observat
 ### Ordnance Survey Streetdrone Front-Facing Camera
 
 <div align="center">
-<img  style=width:300;align:center src="./Streetdrone.png">
+<img  style=width:300;align:center src="./images/Streetdrone.png">
 <p align="center"><b>
 OS Streetdrone Front Camera Location
 </b></p>
@@ -353,9 +359,9 @@ Two formats - JPEG and PNG - are available. A Zip archive of all of the JPEG for
 
 ##### Individual images
 
-The image files also may be examined or downloaded as [individual PNG or Jpeg files](./streetdrone_front_image_list.md).
+The image files also may be examined or downloaded as [individual PNG or Jpeg files](./links/streetdrone_front_image_list.md).
 
-#### Camera video
+#### Camera Video
 
 The video frame rate is 4.86 fps.
 
@@ -364,22 +370,23 @@ The video frame rate is 4.86 fps.
 | [Streetdrone-Front.Camera-Video.20230426T133736.530Z.mp4](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Streetdrone-Front/Camera-Video/Streetdrone-Front.Camera-Video.20230426T133736.530Z.mp4)  | MP4 | 242.2 MB | 1 video |
 | [Streetdrone-Front.Camera-Video.20230426T140336.300Z.mp4](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Streetdrone-Front/Camera-Video/Streetdrone-Front.Camera-Video.20230426T140336.300Z.mp4)  | MP4 | 230.0 MB | 1 video  |
 
-
 #### Camera Targets
 
 Objects in the classes "person", "car", "truck", "bicycle", and "motorcycle" were detected with a YOLO V8 CNN trained on the COCO-17 dataset. The class,onfidence, and centre-points are reported. 
 
-**++ToDo++** target files links
+| Platform.Sensor.Item | Type | Size | Length |
+| :---- | :---- | :---- | :---- |
+| [Streetdrone-Front.Camera-Targets.20230426T140336.504Z.json](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/StreetDrone-Front/Camera-Targets/Streetdrone-Front.Camera-Targets.20230426T140336.504Z.json)  | JSON | 2.13 MB | 1 file |
+| [Streetdrone-Front.Camera-Targets.20230426T133736.530Z.json](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/StreetDrone-Front/Camera-Targets/Streetdrone-Front.Camera-Targets.20230426T133736.530Z.json)  | JSON | 2.13 MB | 1 file |
 
 ### Ordnance Survey Street Drone Rear-Facing Camera
 
 <div align="center">
-<img  style=width:300;align:center src="./Streetdrone_Rear.png">
+<img  style=width:300;align:center src="./images/Streetdrone_Rear.png">
 <p align="center"><b>
 OS Streetdrone Rear Camera Location
 </b></p>
 </div>
-
 
 The OS Streetdrone rear camera location.
 
@@ -403,7 +410,7 @@ Two formats - JPEG and PNG - are available. A Zip archive of all of the JPEG for
 | [Streetdrone-Rear.Camera-Images.20230426T140336.300Z_MSF_JPG.zip](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Streetdrone-Rear/Camera-Images/Streetdrone-Rear.Camera-Images.20230426T140336.300Z_MSF_JPG.zip)  | JPG | 170.2 MB | 203 images |
 | [Streetdrone-Rear.Camera-Images.20230426T140336.300Z_MSF_PNG.zip](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Streetdrone-Rear/Camera-Images/Streetdrone-Rear.Camera-Images.20230426T140336.300Z_MSF_PNG.zip)  | JPG | 724.9 MB | 203 images |
 
-The image files also may be examined or downloaded as [individual PNG or Jpeg files](./streetdrone_rear_image_list.md).
+The image files also may be examined or downloaded as [individual PNG or Jpeg files](./links/streetdrone_rear_image_list.md).
 
 #### Camera video
 
@@ -475,7 +482,7 @@ The data are contained in a single Json file with one object containing observat
 ### Person - "Rider 3" Chest Mount
 
 <div align="center">
-<img  style=width:200;align:center src="./Rider-3.png">
+<img  style=width:200;align:center src="./images/Rider-3.png">
 <p align="center"><b>
 Rider 3
 </b></p>
@@ -497,7 +504,7 @@ Two formats - JPEG and PNG - are available. A Zip archive of all of the JPEG for
 | [Rider-3-Chest-Mount.Camera-Images.20230426_MSF_JPG.zip](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Rider-3-Chest-Mount/Camera-Images/Rider-3-Chest-Mount.Camera-Images.20230426_MSF_JPG.zip)  | JPG | 0.52 GB | 180 images |
 | [Rider-3-Chest-Mount.Camera-Images.20230426_MSF_PNG.zip](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Rider-3-Chest-Mount/Camera-Images/Rider-3-Chest-Mount.Camera-Images.20230426_MSF_PNG.zip)  | PNG | 2.33 GB | 180 images |
 
-The individual image files also may be examined or downloaded as [individual PNG or Jpeg files](./rider-3_image_list.md).
+The individual image files also may be examined or downloaded as [individual PNG or Jpeg files](./links/rider-3_image_list.md).
 
 #### Camera Video
 
@@ -530,7 +537,7 @@ Objects in the classes "person", "car", "truck", "bicycle", and "motorcycle" wer
 ### Person - "Rider 4" Chest Mount
 
 <div align="center">
-<img  style=width:200;align:center src="./Rider-4.png">
+<img  style=width:200;align:center src="./images/Rider-4.png">
 <p align="center"><b>
 Rider 4
 </b></p>
@@ -548,7 +555,7 @@ Two formats - JPEG and PNG - are available. A Zip archive of all of the JPEG for
 | [Rider-4-Chest-Mount.Camera-Images.20230426_MSF_JPG.zip](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Rider-4-Chest-Mount/Camera-Images/Rider-4-Chest-Mount.Camera-Images.20230426_MSF_JPG.zip)  | JPG | 0.52 GB | 180 images |
 | [Rider-4-Chest-Mount.Camera-Images.20230426_MSF_PNG.zip](https://content.hillyfieldsbubble.org/Data/Bubble/Actors/Rider-4-Chest-Mount/Camera-Images/Rider-4-Chest-Mount.Camera-Images.20230426_MSF_PNG.zip)  | PNG | 2.33 GB | 180 images |
 
-The individual image files also may be examined or downloaded as [individual PNG or Jpeg files](./rider-4_image_list.md).
+The individual image files also may be examined or downloaded as [individual PNG or Jpeg files](./links/rider-4_image_list.md).
 
 #### Camera Video
 
