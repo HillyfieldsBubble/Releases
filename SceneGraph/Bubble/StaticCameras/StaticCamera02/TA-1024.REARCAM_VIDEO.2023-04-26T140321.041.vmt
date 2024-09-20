@@ -3,7 +3,7 @@ WEBVMT
 NOTE Created by TrkdCam
      Away Team Software
      www.awayteam.co.uk
-     
+
 NOTE Synchronised with StreetDrone data: s=0.065, n=4
 
 MEDIA
@@ -27,7 +27,7 @@ STYLE
 
 NOTE Lines of sight & target locations
 {"circle":{"lat":50.936657,"lng":-1.471586,"rad":0.1,"zone":"photo-b"}}
-{"circle":{"lat":50.936732,"lng":-1.471498,"rad":1},"zone":"far-left-b"}
+{"circle":{"lat":50.936732,"lng":-1.471498,"rad":1,"zone":"far-left-b"}}
 {"circle":{"lat":50.936745,"lng":-1.471370,"rad":1,"zone":"far-centre-b"}}
 {"circle":{"lat":50.936761,"lng":-1.471203,"rad":1,"zone":"far-right-b"}}
 {"circle":{"lat":50.936700,"lng":-1.471427,"rad":1,"zone":"near-right-b"}}
